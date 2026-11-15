@@ -1,0 +1,75 @@
+{
+  "manifest_id": "XHAILE-RECEIVED-SU-V1",
+  "status": "received_preliminary_research_material",
+  "purpose": "Lock the exact received XHAILe files used as provenance for the derived thesis evaluation.",
+  "files": [
+    {
+      "path": "XHAILE_determinations_SUlov-main/Data/dataset_new_withsections.csv",
+      "role": "received_candidate_gold_determinations",
+      "sha256": "746cd967faf088c953544348dbd0cc0d0c7fc71997769e742ce018b7b72e1a06",
+      "bytes": 19624,
+      "csv_rows": 34,
+      "csv_columns": [
+        "",
+        "id",
+        "line_number",
+        "label",
+        "text",
+        "section_no"
+      ],
+      "ids_in_received_order": [
+        "A30",
+        "A32",
+        "A45",
+        "A49",
+        "A35",
+        "A41",
+        "A42",
+        "A47",
+        "A43",
+        "A1",
+        "A4",
+        "A2",
+        "A6",
+        "A3",
+        "A9",
+        "A11",
+        "A12",
+        "A14",
+        "A16",
+        "A24",
+        "A25",
+        "A15",
+        "A18",
+        "A20",
+        "A19",
+        "A22",
+        "A23",
+        "A61",
+        "A74",
+        "A69",
+        "A71",
+        "A70",
+        "A68",
+        "A39"
+      ]
+    },
+    {
+      "path": "XHAILE_determinations_SUlov-main/su-handicap[38645].txt",
+      "role": "received_2025_source_snapshot",
+      "sha256": "62fd240e73b477a5a526147c28c72f9403ae6f9ee279acd93f3cb6de95063a5f",
+      "bytes": 55688,
+      "text_lines": 601
+    }
+  ],
+  "derivation_boundary": {
+    "xhaile_data": "Only the locked received files and their unchanged fields are XHAILe data in the active evaluation provenance layer.",
+    "researcher_constructed": [
+      "Evaluation/benchmark/testcases_su_guidance_qa_v4.jsonl",
+      "Evaluation/benchmark/expert_answer_criteria_su_guidance_qa_v4.csv",
+      "Evaluation/benchmark/TESTCASE_MAPPING_SU_GUIDANCE_QA_V4.md"
+    ],
+    "current_official_sources": "The frozen 2026 Retsinformation files are external legal-source updates, not received XHAILe data.",
+    "results_boundary": "The manifest records provenance only and does not validate the received determinations as legal ground truth or as integrated XHAILe-system output."
+  }
+}

@@ -1,0 +1,15 @@
+v4_question_number,v5_order,case_id,topic_cluster,included_in_v5,rationale
+1,1,xsu_sg_001_general_conditions,General eligibility,yes,Retains the broad entry question on conditions and educational scope.
+2,2,xsu_sg_002_permanence_requirement,Impairment assessment,yes,Retains the temporal and qualification-sensitive permanence question.
+3,3,xsu_sg_003_severity_assessment,Impairment assessment,yes,Retains the question on the factors in the individual severity assessment.
+4,4,xsu_sg_004_multiple_impairments,Impairment assessment,yes,Retains the distinct issue of how several impairments enter the assessment.
+5,5,xsu_sg_005_work_capacity_scope,Work capacity,yes,Retains the broad work-capacity question and its several exclusions.
+6,,xsu_sg_006_work_history_information,Work capacity,no,Excluded to reduce overlap within section 3.4.1.3; Question 5 retains the broader work-capacity scope.
+7,,xsu_sg_007_work_stopped_due_to_impairment,Work capacity,no,Excluded to reduce overlap within section 3.4.1.3; Question 5 retains the broader work-capacity scope.
+8,6,xsu_sg_008_completed_treatment_documentation,Application documentation,yes,Retains a concrete documentation requirement after completed treatment.
+9,7,xsu_sg_009_medical_documentation_content,Application documentation,yes,Retains the general content requirements for medical documentation.
+10,,xsu_sg_010_congenital_impairment_documentation,Application documentation,no,Excluded as a narrower documentation variant; Questions 8 and 9 retain the broader documentation coverage.
+11,8,xsu_sg_011_doctor_certificate,Supplementary evidence,yes,Retains the response to insufficient documentation and the purpose of a medical certificate.
+12,,xsu_sg_012_current_specialist_statement,Supplementary evidence,no,Excluded to reduce overlap among supplementary medical-evidence routes; Questions 11 and 13 remain.
+13,9,xsu_sg_013_specialist_declaration,Supplementary evidence,yes,Retains the distinct grounds for requesting a specialist declaration.
+14,10,xsu_sg_014_occupational_injury_opinion,Supplementary evidence,yes,Retains the distinct use of an advisory opinion from Arbejdsmarkedets Erhvervssikring.

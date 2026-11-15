@@ -1,0 +1,84 @@
+{
+  "version": "su_formal_legal_sources_v2",
+  "frozen_date": "2026-10-16",
+  "scope": "Current official provisions used only as hidden citation-verification material for the XHAILe-derived SU benchmark.",
+  "sources": [
+    {
+      "source_id": "su_loven_current_2026",
+      "title": "Bekendtgørelse af lov om statens uddannelsesstøtte (SU-loven)",
+      "document_number": "LBK nr. 395 af 13/04/2023, senest ændret ved LOV nr. 761 af 08/09/2026",
+      "status": "Gældende",
+      "status_checked_date": "2026-10-21",
+      "url": "https://www.retsinformation.dk/eli/lta/2023/395",
+      "latest_amendment_url": "https://www.retsinformation.dk/eli/lta/2026/761",
+      "latest_amendment_raw_file": "Evaluation/benchmark/sources/raw/LOV_761_2026_SU_loven_aendring.xml",
+      "raw_file": "Evaluation/benchmark/sources/raw/LBK_395_2023_SU_loven.xml"
+    },
+    {
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "title": "Bekendtgørelse om statens uddannelsesstøtte (SU-bekendtgørelsen)",
+      "document_number": "BEK nr. 841 af 28/09/2026",
+      "effective_from": "2026-10-01",
+      "status": "Gældende",
+      "status_checked_date": "2026-10-21",
+      "url": "https://www.retsinformation.dk/eli/lta/2026/841",
+      "raw_file": "Evaluation/benchmark/sources/raw/BEK_841_2026_SU_bekendtgoerelsen.xml"
+    }
+  ],
+  "authorities": [
+    {
+      "authority_id": "su_loven_7_3",
+      "source_id": "su_loven_current_2026",
+      "citation": "SU-loven § 7, stk. 3",
+      "text": "Sammen med stipendium og studielån eller sammen med slutlån gives et stipendium som tillæg til uddannelsessøgende i videregående uddannelse eller i erhvervsuddannelse, som på grund af varig fysisk eller psykisk funktionsnedsættelse har meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde."
+    },
+    {
+      "authority_id": "su_bek_36_1",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 36, stk. 1",
+      "text": "Udbetaling Danmark kan efter ansøgning bestemme, at der gives tillægsstipendium efter SU-lovens § 7, stk. 3, ud fra en vurdering af arten og graden af den uddannelsessøgendes funktionsnedsættelse, og dennes betydning for den uddannelsessøgendes evne til at påtage sig erhvervsarbejde."
+    },
+    {
+      "authority_id": "su_bek_36_2",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 36, stk. 2",
+      "text": "Det er en forudsætning for tildeling af tillægsstipendium efter SU-lovens § 7, stk. 3, at arten og graden af den uddannelsessøgendes funktionsnedsættelse er varig. Udbetaling Danmark kan dog tildele tillægsstipendium efter SU-lovens § 7, stk. 3, for en kortere periode end støttetiden, jf. SU-lovens § 17, stk. 1 og 2, hvis det på afgørelsestidspunktet er sandsynliggjort, at arten og graden af den uddannelsessøgendes funktionsnedsættelse er varig, men at dette ikke er endeligt fastslået."
+    },
+    {
+      "authority_id": "su_bek_37_1",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 37, stk. 1",
+      "text": "Ved ansøgning om tillægsstipendium efter SU-lovens § 7, stk. 3, skal den uddannelsessøgende på ansøgningstidspunktet vedlægge dokumentation i form af lægefaglige oplysninger, der viser, at den uddannelsessøgende har en eller flere varige funktionsnedsættelser, der kan give ret til tillægsstipendium, og en beskrivelse af den eller disse, jf. § 36, stk. 1 og 2."
+    },
+    {
+      "authority_id": "su_bek_37_2",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 37, stk. 2",
+      "text": "Udbetaling Danmark vurderer alene retten til tillægsstipendium efter SU-lovens § 7, stk. 3, på baggrund af den eller de konkrete varige funktionsnedsættelser, som den uddannelsessøgende søger på baggrund af, jf. stk. 1, medmindre den uddannelsessøgende under Udbetaling Danmarks behandling af ansøgningen indsender dokumentation, jf. stk. 3 og 4, for en anden varig funktionsnedsættelse."
+    },
+    {
+      "authority_id": "su_bek_37_3",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 37, stk. 3",
+      "text": "Den lægefaglige dokumentation, jf. stk. 1, skal som minimum indeholde journaler fra egen læge, speciallæge, hospital eller ambulant klinik."
+    },
+    {
+      "authority_id": "su_bek_37_4",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 37, stk. 4",
+      "text": "Dokumentationen skal være aktuel i forhold til den konkrete eller de varige funktionsnedsættelser og indeholde lægefaglige oplysninger om arten og graden af disse."
+    },
+    {
+      "authority_id": "su_bek_37_5",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 37, stk. 5",
+      "text": "Udbetaling Danmark kan fastsætte en frist for indsendelse af yderligere dokumentation, hvis den uddannelsessøgende har indsendt dokumentation omfattet af stk. 3, men dokumentationen ikke er tilstrækkelig til at vurdere retten til tillægsstipendium, jf. stk. 1 og 4."
+    },
+    {
+      "authority_id": "su_bek_37_8",
+      "source_id": "su_bekendtgoerelsen_2026_841",
+      "citation": "SU-bekendtgørelsen § 37, stk. 8",
+      "text": "Udbetaling Danmark kan i særlige tilfælde indhente en sagkyndig udtalelse om vurderingen efter § 36."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+Du vurderer ét AI-genereret svar på et juridisk spørgsmål om SU-handicaptillæg.
+
+Du får spørgsmålet, AI-svaret, de frosne aktuelle kilder, de formelle
+bestemmelser, ekspertrubrikken og XHAILe-punkterne. Brug kun dette materiale.
+Brug ikke viden fra internettet eller din egen generelle juridiske viden til at
+reparere svaret. Vurder det svar, der faktisk blev givet. Acceptable varianter
+i ekspertrubrikken tæller som korrekte formuleringer.
+
+Vurder hvert kriterium selvstændigt med præcis én label: "met", "not_met" eller
+"not_assessable". Giv altid en kort begrundelse.
+
+AI-svaret kan være almindelig tekst eller en liste af påstande. Vurder det svar,
+der faktisk blev givet. Hvis svaret ikke angiver nogen kilde, gælder: C04 er
+"not_met", og C05 og C06 er "not_assessable".
+
+De ti kriterier er:
+
+- C01 Overall legal correctness: Konklusionen og alle væsentlige juridiske
+  udsagn skal stemme med ekspertrubrikken og de aktuelle kilder uden væsentlige
+  juridiske fejl.
+- C02 Required elements complete: Alle kritiske elementer i ekspertrubrikken
+  skal være med. Tilsvarende formuleringer accepteres.
+- C03 Direct relevance: Svaret skal besvare alle væsentlige dele af spørgsmålet
+  uden at erstatte et svar med irrelevant tekst.
+- C04 Source traceability: Met: material statements are attributed to an identifiable source (statute, provision or guidance). Not met: no identifiable source is cited.
+- C05 Source validity: De angivne kilder skal eksistere og være aktuelle,
+  autoritative og anvendelige inden for den frosne kildeafgrænsning.
+- C06 Claim--source support: De angivne passager skal støtte hele den væsentlige
+  betydning af hver juridisk påstand. En blot beslægtet passage er ikke nok.
+- C07 No unsupported legal additions: Svaret må ikke tilføje en væsentlig regel,
+  betingelse, undtagelse, tærskel, myndighed eller retsvirkning uden støtte.
+- C08 Qualifications and exceptions preserved: Forbehold, undtagelser,
+  tidsgrænser og ikke-absolutte formuleringer, som ændrer betydningen, skal med.
+- C09 Reasoning coherence: De synlige juridiske trin skal være indbyrdes
+  sammenhængende, og konklusionen skal følge af dem.
+- C10 Legal modality precision: Ord som "skal", "kan", "normalt" og "som
+  udgangspunkt" skal gengive kilden præcist og må ikke gøre skøn eller
+  undtagelser absolutte.
+
+Vurder også hvert udleveret XHAILe-punkt med "yes", "partial" eller "no" og en
+kort begrundelse for, om svaret dækker punktet.
+
+Returner kun gyldig JSON i denne struktur:
+{
+  "case_id": "...",
+  "criteria": {
+    "c01_overall_legal_correctness": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c02_required_elements_complete": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c03_direct_relevance": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c04_source_traceability": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c05_source_validity": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c06_claim_source_support": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c07_no_unsupported_legal_additions": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c08_qualifications_and_exceptions": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c09_reasoning_coherence": {"label": "met|not_met|not_assessable", "reason": "..."},
+    "c10_legal_modality_precision": {"label": "met|not_met|not_assessable", "reason": "..."}
+  },
+  "xhaile_coverage": {
+    "A-ID": {"label": "yes|partial|no", "reason": "..."}
+  },
+  "overall_notes": "..."
+}
+
+INPUT:
+{{JUDGE_INPUT_JSON}}

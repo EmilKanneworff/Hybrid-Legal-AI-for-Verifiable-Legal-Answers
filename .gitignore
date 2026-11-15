@@ -1,0 +1,22 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS and Office lock files
+.DS_Store
+~$*
+
+# Credentials. The tool keeps API keys in the macOS Keychain, never in files.
+.env
+*.env
+.streamlit/secrets.toml
+Evaluation/.streamlit/secrets.toml
+
+# Created by the tool when runs are archived or a manual draft is in progress
+Evaluation/outputs/v5_cleared/
+Evaluation/outputs/v5_review/manual_self_retrieval_draft.json
+
+# Default output folder of scripts/export_results_workbook.py when run without a path
+Testing/

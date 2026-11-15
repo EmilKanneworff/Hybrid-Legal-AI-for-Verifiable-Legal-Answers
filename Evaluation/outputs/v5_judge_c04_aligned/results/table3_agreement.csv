@@ -1,0 +1,11 @@
+Criterion,Human reference vs LLM judge (run 1),Human reference vs LLM judge (run 1) · kappa
+C1 · Overall legal correctness,51 of 70,0.486
+C2 · Required elements complete,61 of 70,0.707
+C3 · Direct relevance,56 of 70,0.181
+C4 · Source traceability,69 of 70,0.959
+C5 · Source validity,64 of 70,0.766
+C6 · Claim–source support,62 of 70,0.689
+C7 · No unsupported legal additions,55 of 70,0.588
+C8 · Qualifications and exceptions preserved,49 of 70,0.45
+C9 · Reasoning coherence,57 of 70,0.195
+C10 · Legal modality precision,49 of 70,0.446

@@ -1,0 +1,76 @@
+Model · input condition,Question,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,Legally adequate
+Llama-3.3-70B-Instruct-Q8_0 · Question only,01. Overordnede betingelser og uddannelseskrav,✗,✗,✗,✗,?,?,✗,?,✓,?,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,02. Kravet om varighed,✗,✗,✓,✗,?,?,✗,✗,✗,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,03. Vurdering af funktionsnedsættelsens sværhedsgrad,✗,✗,✓,✗,?,?,✗,✓,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,04. Flere funktionsnedsættelser,✗,✗,✓,✗,?,?,✗,✗,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,05. Afgrænsning af erhvervsevnevurderingen,✗,✗,✓,✗,?,?,✗,✗,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,06. Oplysninger om erhvervsarbejde,✗,✗,✓,✗,?,?,✗,✓,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,07. Arbejdsophør på grund af funktionsnedsættelsen,✗,✗,✓,✗,?,?,✗,✓,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,08. Dokumentation efter afsluttet behandling,✗,✗,✓,✗,?,?,✗,✗,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,09. Indholdet af lægefaglig dokumentation,✗,✗,✓,✗,?,?,✗,✗,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,10. Dokumentation ved medfødt funktionsnedsættelse,✗,✗,✓,✗,?,?,✗,✓,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,11. Indhentning af lægeattest,✗,✗,✓,✗,?,?,✗,✓,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,12. Aktuel redegørelse fra speciallæge eller hospital,✗,✗,✓,✗,?,?,✗,✗,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,13. Speciallægeerklæring,✓,✗,✓,✗,?,?,✓,✗,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,14. Udtalelse fra Arbejdsmarkedets Erhvervssikring,✗,✗,✓,✗,?,?,✗,✗,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Question only,Total ✓ (of 14),1,0,13,0,0,0,1,5,13,6,0
+gpt-6-luna · Question only,01. Overordnede betingelser og uddannelseskrav,✓,✗,✓,✗,?,?,✓,✓,✓,✗,No
+gpt-6-luna · Question only,02. Kravet om varighed,✗,✗,✓,✗,?,?,✗,✗,✓,✗,No
+gpt-6-luna · Question only,03. Vurdering af funktionsnedsættelsens sværhedsgrad,✗,✗,✓,✗,?,?,✗,✓,✓,✗,No
+gpt-6-luna · Question only,04. Flere funktionsnedsættelser,✗,✗,✓,✗,?,?,✗,✗,✓,✓,No
+gpt-6-luna · Question only,05. Afgrænsning af erhvervsevnevurderingen,✗,✗,✓,✗,?,?,✗,✓,✓,✗,No
+gpt-6-luna · Question only,06. Oplysninger om erhvervsarbejde,✗,✗,✓,✗,?,?,✗,✓,✓,✓,No
+gpt-6-luna · Question only,07. Arbejdsophør på grund af funktionsnedsættelsen,✗,✗,✓,✗,?,?,✗,✓,✓,✓,No
+gpt-6-luna · Question only,08. Dokumentation efter afsluttet behandling,✓,✓,✓,✗,?,?,✓,✓,✓,✗,Yes
+gpt-6-luna · Question only,09. Indholdet af lægefaglig dokumentation,✗,✗,✓,✗,?,?,✓,✗,✓,✗,No
+gpt-6-luna · Question only,10. Dokumentation ved medfødt funktionsnedsættelse,✓,✗,✓,✗,?,?,✓,✓,✓,✓,No
+gpt-6-luna · Question only,11. Indhentning af lægeattest,✗,✗,✓,✗,?,?,✗,✓,✓,✗,No
+gpt-6-luna · Question only,12. Aktuel redegørelse fra speciallæge eller hospital,✗,✗,✓,✗,?,?,✗,✗,✓,✓,No
+gpt-6-luna · Question only,13. Speciallægeerklæring,✗,✗,✓,✗,?,?,✗,✗,✓,✓,No
+gpt-6-luna · Question only,14. Udtalelse fra Arbejdsmarkedets Erhvervssikring,✗,✓,✓,✗,?,?,✗,✓,✓,✗,No
+gpt-6-luna · Question only,Total ✓ (of 14),3,2,14,0,0,0,4,9,14,6,1
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,01. Overordnede betingelser og uddannelseskrav,✓,✗,✓,✗,?,?,✓,✓,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,02. Kravet om varighed,✗,✗,✓,✗,?,?,✓,✗,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,03. Vurdering af funktionsnedsættelsens sværhedsgrad,✓,✗,✓,✗,?,?,✓,✗,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,04. Flere funktionsnedsættelser,✓,✗,✓,✗,?,?,✓,✗,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,05. Afgrænsning af erhvervsevnevurderingen,✓,✓,✓,✗,?,?,✗,✓,✓,✓,Yes
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,06. Oplysninger om erhvervsarbejde,✓,✗,✓,✗,?,?,✓,?,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,07. Arbejdsophør på grund af funktionsnedsættelsen,✓,✗,✓,✗,?,?,✓,✓,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,08. Dokumentation efter afsluttet behandling,✗,✓,✓,✗,?,?,✓,✗,✓,✗,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,09. Indholdet af lægefaglig dokumentation,✓,✗,✓,✗,?,?,✓,✓,✓,✓,No
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,10. Dokumentation ved medfødt funktionsnedsættelse,✓,✓,✓,✗,?,?,✓,✗,✓,✓,Yes
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,11. Indhentning af lægeattest,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,12. Aktuel redegørelse fra speciallæge eller hospital,✓,✓,✓,✗,?,?,✓,✗,✓,✓,Yes
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,13. Speciallægeerklæring,✓,✓,✓,✗,?,?,✓,✗,✓,✓,Yes
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,14. Udtalelse fra Arbejdsmarkedets Erhvervssikring,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,Total ✓ (of 14),12,7,14,0,0,0,13,6,14,11,6
+gpt-6-luna · Correct source supplied,01. Overordnede betingelser og uddannelseskrav,✓,✓,✓,✓,✓,✓,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,02. Kravet om varighed,✓,✗,✓,✗,?,?,✓,✓,✓,✓,No
+gpt-6-luna · Correct source supplied,03. Vurdering af funktionsnedsættelsens sværhedsgrad,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,04. Flere funktionsnedsættelser,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,05. Afgrænsning af erhvervsevnevurderingen,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,06. Oplysninger om erhvervsarbejde,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,07. Arbejdsophør på grund af funktionsnedsættelsen,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,08. Dokumentation efter afsluttet behandling,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,09. Indholdet af lægefaglig dokumentation,✓,✗,✓,✗,?,?,✓,✓,✓,✗,No
+gpt-6-luna · Correct source supplied,10. Dokumentation ved medfødt funktionsnedsættelse,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,11. Indhentning af lægeattest,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,12. Aktuel redegørelse fra speciallæge eller hospital,✓,✓,✓,✗,?,?,✓,✗,✓,✓,Yes
+gpt-6-luna · Correct source supplied,13. Speciallægeerklæring,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,14. Udtalelse fra Arbejdsmarkedets Erhvervssikring,✓,✓,✓,✗,?,?,✓,✓,✓,✓,Yes
+gpt-6-luna · Correct source supplied,Total ✓ (of 14),14,12,14,1,1,1,14,13,14,13,12
+Own RAG system · Self-retrieval (RAG),01. Overordnede betingelser og uddannelseskrav,✓,✓,✓,✓,✓,✗,✓,✓,✓,✓,Yes
+Own RAG system · Self-retrieval (RAG),02. Kravet om varighed,✗,✗,✓,✓,✓,✗,✗,✗,✗,✗,No
+Own RAG system · Self-retrieval (RAG),03. Vurdering af funktionsnedsættelsens sværhedsgrad,✗,✗,✗,✓,✓,✗,✗,✗,✓,✓,No
+Own RAG system · Self-retrieval (RAG),04. Flere funktionsnedsættelser,✓,✗,✓,✓,✓,✓,✓,✗,✓,✗,No
+Own RAG system · Self-retrieval (RAG),05. Afgrænsning af erhvervsevnevurderingen,✓,✗,✓,✓,✓,✓,✓,✓,✓,✓,No
+Own RAG system · Self-retrieval (RAG),06. Oplysninger om erhvervsarbejde,✗,✗,✓,✓,✗,✗,✗,✗,✓,✓,No
+Own RAG system · Self-retrieval (RAG),07. Arbejdsophør på grund af funktionsnedsættelsen,✓,✓,✓,✓,✓,✗,✗,✓,✓,✓,Yes
+Own RAG system · Self-retrieval (RAG),08. Dokumentation efter afsluttet behandling,✗,✗,✓,✓,✓,✗,✗,✗,✓,✗,No
+Own RAG system · Self-retrieval (RAG),09. Indholdet af lægefaglig dokumentation,✓,✗,✓,✓,✓,✓,✓,✗,✓,✗,No
+Own RAG system · Self-retrieval (RAG),10. Dokumentation ved medfødt funktionsnedsættelse,✓,✓,✓,✓,✓,✗,✗,✓,✓,✓,Yes
+Own RAG system · Self-retrieval (RAG),11. Indhentning af lægeattest,✓,✓,✓,✓,✓,✓,✓,✓,✓,✓,Yes
+Own RAG system · Self-retrieval (RAG),12. Aktuel redegørelse fra speciallæge eller hospital,✓,✗,✓,✓,✓,✗,✓,✓,✓,✓,No
+Own RAG system · Self-retrieval (RAG),13. Speciallægeerklæring,✓,✗,✓,✓,✓,✓,✓,✓,✓,✗,No
+Own RAG system · Self-retrieval (RAG),14. Udtalelse fra Arbejdsmarkedets Erhvervssikring,✓,✗,✓,✓,✓,✓,✓,✓,✓,✓,No
+Own RAG system · Self-retrieval (RAG),Total ✓ (of 14),10,4,13,14,13,6,8,8,13,9,4

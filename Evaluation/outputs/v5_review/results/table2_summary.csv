@@ -1,0 +1,13 @@
+Criterion,Llama-3.3-70B-Instruct-Q8_0 · Question only,gpt-6-luna · Question only,Llama-3.3-70B-Instruct-Q8_0 · Correct source supplied,gpt-6-luna · Correct source supplied,Own RAG system · Self-retrieval (RAG)
+Answers assessed to date,14 of 14,14 of 14,14 of 14,14 of 14,14 of 14
+C1 · Overall legal correctness,1 met · 13 not met,3 met · 11 not met,12 met · 2 not met,14 met,10 met · 4 not met
+C2 · Required elements complete,0 met · 14 not met,2 met · 12 not met,7 met · 7 not met,12 met · 2 not met,4 met · 10 not met
+C3 · Direct relevance,13 met · 1 not met,14 met,14 met,14 met,13 met · 1 not met
+C4 · Source traceability,0 met · 14 not met,0 met · 14 not met,0 met · 14 not met,1 met · 13 not met,14 met
+C5 · Source validity,0 met · 14 not assessable,0 met · 14 not assessable,0 met · 14 not assessable,1 met · 13 not assessable,13 met · 1 not met
+C6 · Claim–source support,0 met · 14 not assessable,0 met · 14 not assessable,0 met · 14 not assessable,1 met · 13 not assessable,6 met · 8 not met
+C7 · No unsupported legal additions,1 met · 13 not met,4 met · 10 not met,13 met · 1 not met,14 met,8 met · 6 not met
+C8 · Qualifications and exceptions preserved,5 met · 8 not met · 1 not assessable,9 met · 5 not met,6 met · 7 not met · 1 not assessable,13 met · 1 not met,8 met · 6 not met
+C9 · Reasoning coherence,13 met · 1 not met,14 met,14 met,14 met,13 met · 1 not met
+C10 · Legal modality precision,6 met · 7 not met · 1 not assessable,6 met · 8 not met,11 met · 3 not met,13 met · 1 not met,9 met · 5 not met
+Legally adequate (C1 and C2 met),0 of 14,1 of 14,6 of 14,12 of 14,4 of 14

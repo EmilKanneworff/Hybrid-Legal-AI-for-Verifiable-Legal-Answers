@@ -1,0 +1,45 @@
+{
+  "run_id": "20261108T182544618580Z_Manual_Own_RAG_system_self_retrieval",
+  "benchmark_id": "XSU-GUIDANCE-QA-V5",
+  "system": {
+    "system_id": "Manual_Own_RAG_system_self_retrieval",
+    "adapter": "manual_entry",
+    "input_mode": "self_retrieval",
+    "model": "Own RAG system",
+    "system_version": "current",
+    "generator_model": "gpt-6-luna"
+  },
+  "input_mode": "self_retrieval",
+  "entry_method": "Each question was typed or pasted into the RAG system's own interface and the answer, with any sources the system showed, was copied by hand into the review tool. One question per new conversation.",
+  "entered_by": "human",
+  "case_ids": [
+    "xsu_sg_001_general_conditions",
+    "xsu_sg_002_permanence_requirement",
+    "xsu_sg_003_severity_assessment",
+    "xsu_sg_004_multiple_impairments",
+    "xsu_sg_005_work_capacity_scope",
+    "xsu_sg_006_work_history_information",
+    "xsu_sg_007_work_stopped_due_to_impairment",
+    "xsu_sg_008_completed_treatment_documentation",
+    "xsu_sg_009_medical_documentation_content",
+    "xsu_sg_010_congenital_impairment_documentation",
+    "xsu_sg_011_doctor_certificate",
+    "xsu_sg_012_current_specialist_statement",
+    "xsu_sg_013_specialist_declaration",
+    "xsu_sg_014_occupational_injury_opinion"
+  ],
+  "case_count": 14,
+  "output_count": 14,
+  "run_error_count": 0,
+  "finished_utc": "2026-11-08T18:25:44.618580+00:00",
+  "outputs_sha256": "1ddecee4b95b6d9ea8e85055eaf729ee23d084fb5448a5119df11be914328c9c",
+  "metadata_corrections": [
+    {
+      "field": "system.generator_model",
+      "old": "gpt 5.4 mini",
+      "new": "gpt-6-luna",
+      "corrected_utc": "2026-11-08T19:18:54+00:00",
+      "reason": "Author's correction 2026-11-08: 'gpt 5.4 mini' was entered by mistake; the RAG system's answer model is GPT-6-luna. Answers and outputs.jsonl are unchanged."
+    }
+  ]
+}

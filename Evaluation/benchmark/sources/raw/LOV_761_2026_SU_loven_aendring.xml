@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id4c48be32-e441-47d6-b3e1-3bbec518ed70" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2025/08/19/LOVC.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id01a7fe3e-a98a-4d1b-bce4-cad42415404e">
+    <DocumentType>LOV Æ#LOKDOK02</DocumentType>
+    <Rank>A</Rank>
+    <AccessionNumber>A20260076130</AccessionNumber>
+    <DocumentId>DP000030</DocumentId>
+    <UniqueDocumentId>257513</UniqueDocumentId>
+    <DocumentTitle>Lov om ændring af SU-loven og forskellige andre love (Overførsel af opgaver fra Uddannelses- og Forskningsstyrelsen og uddannelsesinstitutioner til Udbetaling Danmark og Arbejdsgivernes Uddannelsesbidrag)</DocumentTitle>
+    <Year>2026</Year>
+    <DiesSigni>2026-09-08</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <StartDate REFid="submit_1">2026-09-08</StartDate>
+    <EndDate REFid="submit_1">2026-09-09</EndDate>
+    <Status>Valid</Status>
+    <Number>761</Number>
+    <AnnouncedIn>Lovtidende A</AnnouncedIn>
+    <DiesEdicti>2026-09-08</DiesEdicti>
+    <Subject>SU</Subject>
+    <Subject>Befordringsrabat</Subject>
+    <Subject>SVU</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">FREDERIK R.</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Christina Egelund</Signature>
+    <PlaceOfSignature>Givet på Amalienborg</PlaceOfSignature>
+    <JournalNumber>Forsknings-, Uddannelses- og Digitaliseringsmin., j.nr. 2026-3518.</JournalNumber>
+    <Ministry>Forsknings-, Uddannelses- og Digitaliseringsministeriet</Ministry>
+  </Meta>
+  <TitelGruppe id="id17bb0de1-848e-4e69-9604-ce144b58c4d9">
+    <Titel id="id7b916aca-d7dd-44d8-b7af-ec9f34441185">
+      <Linea>
+        <Char>Lov om ændring af SU-loven og forskellige andre love</Char>
+      </Linea>
+    </Titel>
+    <UnderTitel id="ida4754535-67c7-41d9-b73d-9a97a4cb8be0">
+      <Linea>
+        <Char>(Overførsel af opgaver fra Uddannelses- og Forskningsstyrelsen og uddannelsesinstitutioner til Udbetaling Danmark og Arbejdsgivernes Uddannelsesbidrag)</Char>
+      </Linea>
+    </UnderTitel>
+  </TitelGruppe>
+  <DokumentIndhold id="idd7c91b3c-79a2-4648-ad3a-1d2fa1d86864">
+    <Hymne id="id79351813-2a7e-40d1-a074-7b126fd7ac40">
+      <Exitus>
+        <Linea>
+          <Char>VI FREDERIK DEN TIENDE, af Guds Nåde Danmarks Konge, gør vitterligt:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:</Char>
+        </Linea>
+      </Exitus>
+    </Hymne>
+    <AendringCentreretParagraf id="id7aec4f1b-77c3-4c82-8cac-ae2b569b30aa" localId="1">
+      <Explicatus>§ 1</Explicatus>
+      <Rubrica id="id88ececa9-4e84-4372-99e8-d36df7f8d239">
+        <Linea>
+          <Char formaChar="Italic">Forsknings-, Uddannelses- og Digitaliseringsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I SU-loven, jf. lovbekendtgørelse nr. 395 af 13. april 2023, som ændret senest ved § 3 i lov nr. 1648 af 16. december 2025, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id358c027b-cd2a-47bd-9016-680ed85b2c0f">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id0e2bea2e-cd6a-4696-bf26-3a91322bd0bd">
+          <AendringDefinition id="idf5ad71d4-e396-4f0a-9e92-42bd4ac15616">
+            <Exitus>
+              <Linea>
+                <Char>Overalt i loven bortset fra i § 2 f, 3. pkt., § 3, stk. 5, § 39, stk. 3, § 42, stk. 2, 1. og 2. pkt., § 43, stk. 2, 2. pkt., § 43, stk. 5, § 43 a, stk. 1, § 45, § 46, stk. 1, 1. pkt., § 46, stk. 2, 2. pkt., § 46, stk. 4, § 46 h, stk. 3, § 56, stk. 1, og § 57 a, stk. 2, 1. pkt., ændres »styrelsen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id145b8426-bcd3-42d6-a9b4-a7b0e887e2cc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf89ea2d8-a60c-4f19-b723-eb237fdf3e6d">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id2c980b5b-e21f-4990-9709-219b27a915f3">
+          <AendringDefinition id="id92839006-1654-4f41-82f0-9721c581ed29">
+            <Exitus>
+              <Linea>
+                <Char>Overalt i loven bortset fra i § 4, stk. 2, 1. pkt., § 39, stk. 2, 1. pkt., § 42, stk. 1, 2. pkt., § 42, stk. 3,</Char>
+                <Char formaChar="Italic"></Char>
+                <Char>§ 43, stk. 1, 3. pkt., § 43, stk. 2, 1. pkt., § 43, stk. 3, og § 56, stk. 2 og 3, ændres »Styrelsen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide84c89ba-939a-4c3f-954b-1d96ef0c9b49">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8fb41c04-2bbe-4a24-8c5f-a326883b854a">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id7056d72f-abc2-4dd8-bf9c-14d127bd117a">
+          <AendringDefinition id="id0cc3cd8b-5252-4d27-8e8a-2b80baa2138e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 4,</Char>
+                <Char> indsættes efter »Uddannelses- og Forskningsstyrelsen«: »og Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id414774ac-3bf8-48d7-ab0c-cc8cec085fc1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id82642bd5-3e5a-4ea3-bb70-c296e80e11b0">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id2223521b-cdf5-4cb0-8075-6d8541065d73">
+          <AendringDefinition id="idb7bbfe9b-9caa-4096-baea-4eab312a1ef6">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2 f, 3. pkt., </Char>
+                <Char>indsættes efter »styrelsen«: »eller Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id44450a2f-d28b-42c7-9577-d87609291d8e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3fa1436d-ffd4-494e-affb-28414f7ebf17">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id58390c71-31f7-4356-af0d-01a50e6b856c">
+          <AendringDefinition id="id4d4d2b46-2bf8-4152-8d0b-1d4dee2171f8">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 38 b, stk. 2, nr. 1, § 38 c, stk. 1, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 38 d, stk. 1,</Char>
+                <Char> ændres »styrelsens« til: »det«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6b46ac13-5998-4ef1-9eea-1ab2fbb813ba">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbf974036-ed0d-48ee-817d-15e06d1b2488">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="idbf7d3b0e-b868-4d01-a55a-2831d611a30b">
+          <AendringDefinition id="idab228f53-eea6-4cae-a45b-aaae8c53e99c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 39, stk. 2-4, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc48e5098-37b7-4899-afce-748917b49689">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idfaa5978b-87ab-43d4-8513-9066373bcc71">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 5-11 bliver herefter stk. 2-8.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id13a279c1-4bd5-4485-bec1-55eadfd22438">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id266b6101-a45e-49cf-b76a-195870c81180">
+          <AendringDefinition id="id387d1dbd-2f23-48bf-ae4b-ec7f12d06ec0">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 39, stk. 11, </Char>
+                <Char>der bliver stk. 8</Char>
+                <Char formaChar="Italic">, </Char>
+                <Char>ændres »stk. 1-5« til: »stk. 1 og 2«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide25189d3-db9a-4381-a3ec-e05ed0179185">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0afa745d-1544-49e7-835e-2fecbe186d3b">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idd84d10c8-4294-4d54-bfdc-7d8d97ab454d">
+          <AendringDefinition id="id3532ed72-a9bf-4a48-ae06-be88c3eccfdc">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 41, stk. 1, </Char>
+                <Char>udgår »styrelsens«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4c13bd8d-3430-4b61-b6b2-9fe2b97dd01f">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id2cf6cd76-8ea5-4e22-a104-ecb21366128f">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="idad3defe1-f8d7-45d9-9a87-e93ba9ad4cf7">
+          <AendringDefinition id="id13248c38-15d5-4168-a48d-81b9f7af2e5d">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 42, stk. 1, 1. pkt., </Char>
+                <Char>ændres »styrelsens« til: »forsknings-, uddannelses- og digitaliseringsministerens«, og i</Char>
+                <Char formaChar="Italic"> 2. pkt. </Char>
+                <Char>ændres »Styrelsen« til: »Forsknings-, uddannelses- og digitaliseringsministeren«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9992e70f-8ee5-4eeb-b6e9-2bd7f18d5084">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id15112562-4ba3-4272-b2e1-a9cd2665aef4">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id4f755b30-d461-4bb9-9642-46f822db3ffb">
+          <AendringDefinition id="iddb031f5d-1f21-46fe-a691-399ac150f654">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 42, stk. 1, 3. pkt., </Char>
+                <Char>ændres »§ 39, stk. 1, 2, 4 og 5, jf. stk. 11« til: »§ 39, stk. 1 og 2, jf. stk. 8«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id61f10826-a72c-48ea-880e-85be3409afcf">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3a778b9b-2e1c-43de-a16d-69a194781c46">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id532fa7b3-b4ab-4272-9a2d-2c8483637ca4">
+          <AendringDefinition id="idd1c600f4-a684-49bd-96e4-111f59c95c2b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 42, stk. 2, 1. pkt.,</Char>
+                <Char> udgår »eller efter styrelsens bestemmelse om støttetildelingen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd036375b-9cab-4756-a601-2616b1311ed3">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbc584ae3-2e75-479c-9fb7-21c093cc271c">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idcda7b5fa-91c5-4437-aca0-66341c8e7c0d">
+          <AendringDefinition id="id6783f69c-4fd8-447c-8e6f-512502dbfd7b">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 42 </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id6f0fc4a9-aa5a-4ecc-ba05-a20768d1e10a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id93ea2917-8634-46fd-b2dd-0bd1cc398199">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="idfea5b6f2-692a-4347-be39-ba111752da90">
+          <AendringDefinition id="id7683d763-024a-4c9b-b3fd-3afb759bea16">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43, stk. 1, 3. pkt.,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 1. pkt.,</Char>
+                <Char> ændres »Styrelsen« til: »Forsknings-, uddannelses- og digitaliseringsministeren«,</Char>
+                <Char formaChar="Italic"></Char>
+                <Char>og i</Char>
+                <Char formaChar="Italic"> stk. 2,</Char>
+                <Char></Char>
+                <Char formaChar="Italic">2. pkt.,</Char>
+                <Char> ændres »styrelsen kan kræve« til: »der kan indhentes«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2b2cc67d-1a4e-40d1-8ef2-ede76ba45bbc">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0b6bd252-986d-4d7b-b0b0-d7861135319d">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="ida2ef4082-a1f2-43c8-8307-f1a16a7d8caa">
+          <AendringDefinition id="id1b85303d-ffd9-4996-bb49-dda40bf3437e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43, stk. 3, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfe3c2931-b9a5-4963-90ab-701becfe600a">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="idf1c12df7-8eb7-4609-9d1b-83a5fecd15e8">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 og 5 bliver herefter stk. 3 og 4.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id6b76b0f4-a059-46ef-9c81-eefe726f7c29">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id8920e0aa-88a5-4b29-af89-6c4ffd42dda9">
+          <AendringDefinition id="id6c6f6cd3-cacf-4b26-9716-15f849c9f659">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 43, stk. 5,</Char>
+                <Char> indsættes efter »mellem«: »Udbetaling Danmark,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id71243ffe-3ea9-47f4-bdc0-2e46901b0e0d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idcf1fb6c5-7c3e-4a2f-9285-5ae4a176729d">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id2b0e9315-99c8-4322-a27f-11d696dd43cf">
+          <AendringDefinition id="id44814024-b1e1-4361-8c3e-42210681b2c7">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 1, 1. pkt., </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idee997bac-5f00-4afc-998f-9d7d46ae09ed">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Afgørelser, som er truffet af styrelsen eller Udbetaling Danmark om grundlaget for tildeling og beregning af uddannelsesstøtte til en uddannelsessøgende, om en støttemodtagers tilbagebetaling af uddannelsesstøtte, om opkrævning af krav om tilbagebetaling af for meget udbetalt støtte og om tilbagebetaling af stats-, studie- og slutlån, kan af adressaten for afgørelsen indbringes for Ankenævnet for Statens Uddannelsesstøtteordninger efter reglerne i lov om Ankenævnet for Statens Uddannelsesstøtteordninger, jf. dog § 46 i.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idcc5c119e-4adf-4c2f-9b6c-818fb7985292">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id93e1bb81-1f4e-4947-b679-fec00a947ad5">
+          <AendringDefinition id="idf644e5d6-f107-48cd-a6e9-e0bf0fbd8928">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46, stk. 2 </Char>
+                <Char>og</Char>
+                <Char signiChar="AendringURN" formaChar="Italic"> 3, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide57545af-6b3c-4c0e-b61f-991df9d20735">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id0c38fe62-0e86-4b48-b273-215156fa158c">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 4 bliver herefter stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idfc307e4a-5c20-4787-b59e-50393d1bbb6c">
+        <Explicatus>18.</Explicatus>
+        <Aendring id="id309089c9-c1ed-4f5f-8964-20c7e5be3b52">
+          <AendringDefinition id="id30a98ca1-7678-4391-aff1-a2174407833b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 46 h, stk. 3, </Char>
+                <Char>udgår »styrelsen og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd7739724-d57a-4a07-acfd-e6ad8dbb6163">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idafe11306-8881-432f-9a17-9562bcce5a6e" localId="2">
+      <Explicatus>§ 2</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om statens voksenuddannelsesstøtte, jf. lovbekendtgørelse nr. 53 af 23. januar 2020, som ændret ved § 2 i lov nr. 672 af 26. maj 2020 og § 2 i lov nr. 2400 af 14. december 2021, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id0bff9df3-6edb-4721-9aae-ce4070a649bb">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id88b381d9-fed8-4e24-9eba-1cefbadb25ad">
+          <AendringDefinition id="idac77a565-9b14-465a-928a-c356f655aaed">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 14 c, 2. pkt., </Char>
+                <Char>ændres »Uddannelses- og Forskningsstyrelsen« til: »Arbejdsgivernes Uddannelsesbidrag«, og i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt. </Char>
+                <Char>indsættes efter »Uddannelses- og Forskningsstyrelsen«: »eller Arbejdsgivernes Uddannelsesbidrag«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id34e67b07-9e3c-4667-b140-21d9c136b4e6">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idd2b157ae-6567-480a-b067-67e9f3d01084">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="ide6897cd6-d1bb-4b8d-a25c-fddf61d7019b">
+          <AendringDefinition id="id1cd57b6c-cc1b-4125-bfbb-832ade22c0a2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, stk. 3, </Char>
+                <Char>ændres »Udbetaling Danmark« til: »Arbejdsgivernes Uddannelsesbidrag«, og »Styrelsen for Institutioner og Uddannelsesstøttes« udgår.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf93c3884-d6fd-48c8-904a-715db6aa53a8">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7c550a7c-1789-4134-8ec0-3194750be2fd">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id71b85f2e-c6e5-42d0-abdc-1b3e83bb8105">
+          <AendringDefinition id="idd1f24933-149b-4faf-b99b-aa7587a7ce31">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, stk. 6, </Char>
+                <Char>ændres »Udbetaling Danmarks« til: »Arbejdsgivernes Uddannelsesbidrags«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idde6e8c2a-72d9-45d1-9085-46acb5f14d77">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id7009cd4d-489f-4aa9-af4f-0ab49ce63496">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="ida4a2ae57-6fb1-47ec-81c1-17a0d1f52203">
+          <AendringDefinition id="id9e082d4c-e39c-4085-abf7-a1a0c765a422">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 19 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3d7215aa-d3f6-4686-a576-644e3e8e160e">
+            <AendringNyTekst>
+              <Paragraf id="idb55a3992-df50-49b7-9b2b-4c7274f9b0b2" localId="19">
+                <Explicatus>§ 19.</Explicatus>
+                <Stk id="id424a0897-36f5-4259-affd-8f0fe12229b9">
+                  <Exitus>
+                    <Linea>
+                      <Char>Administrationen af statens voksenuddannelsesstøtte varetages af Arbejdsgivernes Uddannelsesbidrag.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id486d09fa-f1d1-459c-b35e-45f245aae6ff">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Forsknings-, uddannelses- og digitaliseringsmini‍steren kan bemyndige Uddannelses- og Forskningsstyrelsen til at varetage visse beføjelser efter denne lov.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id424e4a5a-afac-4e34-b4b7-03d30bcf301d">
+                  <Explicatus>Stk. 3.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Undervisningsministeren kan efter forhandling med vedkommende minister bemyndige en anden statslig myndighed til at udøve de beføjelser til at fastsætte regler, der i denne lov er tillagt undervisningsministeren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id2831a334-1bfb-4996-b5b6-b59375531512">
+                  <Explicatus>Stk. 4.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Har undervisningsministeren bemyndiget en styrelse under Undervisningsministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren, kan styrelsens afgørelser ikke indbringes for ministeren, jf. dog stk. 5.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id833faa8f-2f62-494a-983a-067f3485f904">
+                  <Explicatus>Stk. 5.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Undervisningsministeren kan fastsætte regler om, at visse typer af afgørelser, der er truffet i henhold til en bemyndigelse som nævnt i stk. 3, i et nærmere bestemt omfang kan indbringes for ministeren.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan i den forbindelse fastsætte regler om adgangen til at klage og fremgangsmåden ved indgivelse af klage.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id89a6e921-e47e-4fe3-a3a6-9e20e816f9d4">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id3693f7ba-fcc6-4c12-9ace-626f7cc96109">
+          <AendringDefinition id="id58933a2b-b959-41ca-85d6-dc427a886352">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20, stk. 1 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 2, </Char>
+                <Char>ændres »Børne- og undervisningsmini‍steren, uddannelses- og forskningsministeren, Uddannelses- og Forskningsstyrelsen, Udbetaling Danmark eller anden statslig myndighed efter bemyndigelse« til: »Arbejdsgivernes Uddannelsesbidrag«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9aafedde-989d-4910-922f-cf01013888de">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id77c136c2-3c88-4407-a737-a1bf36948b99">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id66fb5368-8a63-40eb-9ddf-41601acc9ee4">
+          <AendringDefinition id="id52325666-2202-4c34-b0d9-7a07b9faefb7">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 20 a, stk. 1 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 2, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 1., 2. </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3. pkt., </Char>
+                <Char>ændres »Uddannelses- og Forskningsstyrelsen« til: »Arbejdsgivernes Uddannelsesbidrag«, og i </Char>
+                <Char formaChar="Italic">stk. 1</Char>
+                <Char> udgår »eller anden statslig myndighed«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idea779112-95bd-48d0-abe4-9ab13c35942c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id166e7071-5c08-49cf-bc7a-db325cc7f37e">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id55cfb867-2630-42fb-9c61-cafeb27f2848">
+          <AendringDefinition id="id5da2bde1-1384-4282-9750-32f13e28be47">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 1, </Char>
+                <Char>indsættes som </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5ac4fd55-2107-4581-b8c0-c093e3304ef0">
+            <AendringNyTekst>
+              <Exitus>
+                <Linea>
+                  <Char>Det gælder dog ikke beføjelsen til at træffe afgørelse.</Char>
+                </Linea>
+              </Exitus>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8cc88f1e-f530-4e5d-ab77-ae07be12a28d">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id8211850d-d9e5-44f2-978f-580020d3fe13">
+          <AendringDefinition id="idb64647e5-f4bc-4028-a032-74fe13578728">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 3, </Char>
+                <Char>indsættes efter »mellem«: »Arbejdsgivernes Uddannelsesbidrag,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id19e759d9-14cb-4331-aaf6-386981f7eac0">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id55707797-a133-4406-b470-65fe306e3f86">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id71e3593f-a18d-46a5-b2f6-1fe7f4ec0c1b">
+          <AendringDefinition id="id96183446-045f-499d-b618-a554d4946c1e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 4 </Char>
+                <Char>og</Char>
+                <Char signiChar="AendringURN" formaChar="Italic"> 5, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbc150101-8714-422e-8808-d270566ecab4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id8f7b0440-37c4-4bec-b803-1a81b6779d57">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 6-8 bliver herefter stk. 4-6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id9f875b92-7003-4c53-b98c-bf481b617da3">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="idf2dba1da-16b5-4dad-913d-d7c2e307f442">
+          <AendringDefinition id="ida81eb60c-03d1-4ead-9b78-7596567201eb">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 6, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id24fe3bb5-db4c-4e3a-b8d2-2db585307dd8">
+            <AendringNyTekst>
+              <Stk id="idc17cfdf1-35d3-4e59-a7de-d66737cbe93a">
+                <Explicatus>Stk. 6.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister, jf. § 1, fører tilsyn med uddannelsesstedernes varetagelse af opgaver efter stk. 1.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id06133890-4f1f-4290-97ce-70a0c4fbba73">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id8fb8d5aa-84e0-4330-a422-25d6ec77b371">
+          <AendringDefinition id="ide0cbc5b3-0274-46ef-8ee4-61802870ab4e">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 7, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3f06777c-1c99-474a-8558-9f083976eb06">
+            <AendringNyTekst>
+              <Stk id="id81ece588-b48a-4dd7-bdec-c0d191607d70">
+                <Explicatus>Stk. 7.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Vedkommende minister, jf. § 1, kan fastsætte regler om revision og om tilsynet med uddannelsesstedernes opgaver, herunder om indhentning af de oplysninger fra uddannelsesstederne, der er nødvendige for varetagelsen af tilsynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id36eae9f9-acb7-4686-a13a-1846430e1d19">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="id386d8b38-8278-4285-b115-0d55ff784d9e">
+          <AendringDefinition id="id2680b6b1-eaeb-4240-b087-96e53aad661c">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 21, stk. 8, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id09b136ff-914e-4b43-acbd-af3bfc722d5a">
+            <AendringNyTekst>
+              <Stk id="id6e219906-a759-44a4-8014-444ab75c429c">
+                <Explicatus>Stk. 8.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejdsgivernes Uddannelsesbidrag vejleder uddannelsessteder, uddannelsessøgende og arbejdsgivere om SVU.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida4631a52-86bd-4a29-a3ab-010fdeddf28d">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="id2dae8f69-b922-476c-a7bd-84f68f34b1aa">
+          <AendringDefinition id="id9c4168f7-6cb4-4659-8f90-df3cb5f6e5bb">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 22, stk. 1 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id73cc3006-5417-4833-87bd-5973ffd21f9b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id65b6d5ef-af1c-4847-9ead-41fc670b8adf">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 1.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id78b650a6-aac4-46cb-9a26-7b63fbe5eed7">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="id5b1901d5-07d7-4429-a3a7-bb1aac2c868c">
+          <AendringDefinition id="id1640b343-ba4a-4ade-b6fb-980af07cf577">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 22, stk. 3, 1. pkt., </Char>
+                <Char>udgår »børne- og undervisningsministeren, uddannelses- og forskningsministeren,«, og »anden statslig myndighed efter bemyndigelse« ændres til: »Arbejdsgivernes Uddannelsesbidrag«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf0dc636e-d772-4a1a-a220-a43ec48ebf68">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf3bf53ff-288f-4994-b8bf-9f9a66552dff">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="id0ef7f46a-6185-4bb9-9eca-7a4c71267637">
+          <AendringDefinition id="id6fb899a5-b0f7-49c1-8b2c-98f62a6ac0d4">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 22 a, 1. pkt., </Char>
+                <Char>ændres »Udbetaling Danmark« til: »Arbejdsgivernes Uddannelsesbidrag«, og », Uddannelses- og Forskningsstyrelsen eller anden statslig myndighed efter bemyndigelse« ændres til: »og Uddannelses- og Forskningsstyrelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idaf2a6289-5d6e-4969-a7ca-8adf2082c88e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idef62c90e-f163-4683-b955-90588f8bd797">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id079a0c02-1a15-4f40-8657-47017ee84c6e">
+          <AendringDefinition id="id5dd1b6c2-9280-48ae-9a3e-c55e38526fc9">
+            <Exitus>
+              <Linea>
+                <Char>Efter kapitel 7 indsættes:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id191376b8-cb0d-4adb-b3d9-62cee2f29dad">
+            <AendringNyTekst>
+              <Kapitel id="id7b1d4fdf-efb0-4511-bc00-663780895f10" localId="7a">
+                <Explicatus>Kapitel 7 a</Explicatus>
+                <Rubrica id="id230be54e-af53-438f-aef5-9006b0f4046a">
+                  <Linea>
+                    <Char formaChar="Italic">Tilsyn med Arbejdsgivernes Uddannelsesbidrag</Char>
+                  </Linea>
+                </Rubrica>
+                <ParagrafGruppe>
+                  <Paragraf id="idbf1eb286-b479-4e17-9612-65ffc5423e6a" localId="22b">
+                    <Explicatus>§ 22 b.</Explicatus>
+                    <Stk id="idec45b2bf-4247-40f2-90b1-b8f1fe734237">
+                      <Exitus>
+                        <Linea>
+                          <Char>Arbejdsgivernes Uddannelsesbidrag giver efter anmodning vedkommende minister, jf. § 1, alle oplysninger af betydning for ordningerne efter denne lov, herunder oplysninger med henblik på en vurdering af de økonomiske forhold.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Oplysningerne kan overføres i elektronisk form.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="ida819ceb2-06f6-4918-8685-1352bc5f55de" localId="22c">
+                    <Explicatus>§ 22 c.</Explicatus>
+                    <Stk id="idc6200ceb-6ccf-4696-a6dc-a997e0c6f81e">
+                      <Exitus>
+                        <Linea>
+                          <Char>Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag indsender et budget for de samlede udgifter efter denne lov til Undervisningsministeriet og Forsknings-, Uddannelses- og Digitaliseringsministeriet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id95dfb58f-c91d-4240-a380-c578c156befd">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Vedkommende minister dækker Arbejdsgivernes Uddannelsesbidrags udgifter til SVU, herunder administrati‍onsudgifter.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Vedkommende ministers udbetaling til Arbejdsgivernes Uddannelsesbidrag sker forskudsvis en gang i kvartalet med en efterfølgende årlig regulering på grundlag af et regnskab for det pågældende år.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="id5476d867-d50a-4771-87b4-0462d683d1d5" localId="22d">
+                    <Explicatus>§ 22 d.</Explicatus>
+                    <Stk id="ida88353a5-0ee8-4757-924d-244835eb0bff">
+                      <Exitus>
+                        <Linea>
+                          <Char>For hvert regnskabsår udarbejder bestyrelsen for Arbejdsgivernes Uddannelsesbidrag et årsregnskab over udgifter til SVU, herunder administrationsudgifter.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Der udarbejdes endvidere en årsberetning.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Regnskabsåret følger kalenderåret.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id116841d6-c5db-47ef-ab29-1134e848dee6">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Det reviderede og godkendte årsregnskab sendes senest 6 måneder efter regnskabsårets udløb til Undervisningsministeriet og Forsknings-, Uddannelses- og Digitaliseringsministeriet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idc582f0ac-1fa7-42d8-a836-b229ca8bcef5">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Anvender Arbejdsgivernes Uddannelsesbidrag til administrationen af opgaver efter denne lov et it-system, eller varetages databehandlingen helt eller delvis af Statens It eller andre myndigheder, der revideres af Rigsrevisionen, skal Arbejdsgivernes Uddannelsesbidrag ikke sikre, at der foreligger en uafhængig revisorerklæring for de pågældende it-systemer eller databehandlingen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                  <Paragraf id="idf8a93cb4-6e8a-4b8a-87b4-0a381e37f994" localId="22e">
+                    <Explicatus>§ 22 e.</Explicatus>
+                    <Stk id="ide6856388-b004-48ea-b3a3-228e10609da5">
+                      <Exitus>
+                        <Linea>
+                          <Char>Årsregnskabet skal revideres af mindst én statsautoriseret revisor, jf. dog stk. 7.</Char>
+                        </Linea>
+                        <Linea>
+                          <Char>Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag udnævner revisoren, men kan til enhver tid trække udnævnelsen tilbage.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idefa1cdf2-7245-4c6b-b2ac-3325f0bcad3c">
+                      <Explicatus>Stk. 2.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Ved revisorskift skal bestyrelsen for Arbejdsgivernes Uddannelsesbidrag og revisoren give vedkommende minister, jf. § 1, en redegørelse, hvis skiftet skyldes særlige forhold.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idf8986256-fa37-400e-aec6-84309e920b36">
+                      <Explicatus>Stk. 3.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Revisionen udføres i overensstemmelse med standarderne for offentlig revision.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="iddaf0eec3-cc62-42a5-9629-ddc5707b7e7a">
+                      <Explicatus>Stk. 4.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Efter at revisionen af årsregnskabet er afsluttet, skal revisoren ved påtegning på regnskabet bekræfte, at revisoren har revideret dette.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="idedc1aae3-4481-4439-bf2d-fcb206a2903c">
+                      <Explicatus>Stk. 5.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Revisoren har ret til at deltage i bestyrelsesmøder under behandlingen af sager, der har betydning for revision eller aflæggelse af regnskabet.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id34ccd88b-04be-4136-b839-89102a2b2cfa">
+                      <Explicatus>Stk. 6.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>Revisoren har pligt til at deltage i bestyrelsens behandling af de pågældende sager efter stk. 5, hvis det ønskes af et bestyrelsesmedlem.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                    <Stk id="id9dbab34b-980d-40ea-ab66-304ce40640cb">
+                      <Explicatus>Stk. 7.</Explicatus>
+                      <Exitus>
+                        <Linea>
+                          <Char>For it-systemer, eller hvor databehandlingen helt eller delvis varetages af Statens It eller andre myndigheder, der revideres af Rigsrevisionen, skal revisoren ikke foretage revision af it-systemerne eller databehandlingen.</Char>
+                        </Linea>
+                      </Exitus>
+                    </Stk>
+                  </Paragraf>
+                </ParagrafGruppe>
+              </Kapitel>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="idd77edbbb-3777-49aa-927a-70ec0c009426" localId="3">
+      <Explicatus>§ 3</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om befordringsrabat til studerende ved videregående uddannelser, jf. lovbekendtgørelse nr. 791 af 9. august 2019, som ændret ved § 3 i lov nr. 672 af 26. maj 2020, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id98d030c2-725b-42ab-9216-25bc41b2d044">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id3a1af620-320e-4fdd-a2fd-b5d7f5c9955e">
+          <AendringDefinition id="idaa70d625-9955-44f3-b24e-22701c7b1561">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1, </Char>
+                <Char>ændres »Styrelsen for Institutioner og Uddannelsesstøtte (styrelsen)« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2aaf4e9e-726b-4b51-8af6-a0e88a1b52d8">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id146d6882-06c3-4476-8dc3-59063a16be81">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id80a2d1ff-63e0-47a8-b06c-c0b9da70c02b">
+          <AendringDefinition id="idd0cb8a76-1f59-487d-8c3f-bfbdfbfa968b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 3, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6, nr. 1 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">3, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 a, stk. 2, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 4, </Char>
+                <Char>ændres »styrelsen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idbfb8d9f0-1545-4eb0-a683-5ed8e76e959c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf2fb131e-7986-4ff3-8116-d76d88ebba95">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id1b1963bb-a530-459c-be42-fb89bc5f5362">
+          <AendringDefinition id="id78c327b4-1045-422d-a83b-06a25fa2f3f5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 3, 2. pkt., § 4 b, stk. 1,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 a, stk. 1, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 1. </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 2. pkt., </Char>
+                <Char>ændres »Styrelsen« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id886b0c93-322f-4cdb-b007-38bbcbfa1a57">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id0286f0d2-8ecf-436d-8573-c69de21c224d">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id0c7357c4-aeab-42be-8ebb-9c9cca2a6d75">
+          <AendringDefinition id="idaf0c848a-7d0e-4a7f-bc3d-bc092ed4814e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 6, nr. 2,</Char>
+                <Char> og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 7, </Char>
+                <Char>ændres »styrelsens« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb16d00ab-760d-4543-be1c-ed87b60aeded">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id62213b24-c457-406a-8001-b352f6faca3f">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idb2f517b8-f614-40a4-8edf-0393ab681a1b">
+          <AendringDefinition id="id97447d06-c871-4681-a86f-a610888af6ff">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 1, 1. </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., </Char>
+                <Char>ændres »Uddannelsesstedet« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id20fa8925-0a06-4b2e-b949-ff25c49fcee1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id995fa323-690b-4b94-a492-2fa6bd69e191">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id42b7910b-4dee-475a-a0b9-5aebd8e81a0e">
+          <AendringDefinition id="id427c9c7e-df0d-4759-9977-6ce8e95b29b2">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 a, stk. 3, </Char>
+                <Char>ændres »uddannelsesstedernes« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd95aa8fa-a6ad-48fc-abbc-12b1f0437142">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idf081376c-7092-45ad-8c2c-defc13c6d648">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id91cfaac7-bcc8-4bd7-b8ec-b983282ac5a3">
+          <AendringDefinition id="id8030c071-4293-407d-be0b-18dbf801a414">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4 c, stk. 1, 1. pkt., </Char>
+                <Char>udgår »styrelsens«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfac40398-3d66-4872-bc98-6306b03e6f99">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide22d2aed-4e6a-4b91-83d7-09be0bdba9ca">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id62f3d49b-be9d-475d-85dd-b364460bd8c6">
+          <AendringDefinition id="id4571b942-ff5d-4cde-a2c9-dbfb778b531c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 a, stk. 4, </Char>
+                <Char>indsættes efter »rabat«: », godtgørelse efter en kilometersats, jf. § 4 a,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id67e160e2-d38b-4eca-b8cc-12c2cda46fb4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id3faa5b36-36c8-4786-b74d-80135116487f">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="ida9997182-fd9b-4c9d-b1ba-c7f2087f55aa">
+          <AendringDefinition id="id06a4aea0-269b-490c-8743-d68f8a32ce25">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Bold"></Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 a, stk. 5, 1. </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt., </Char>
+                <Char>ændres »Styrelsen« til: »Forsknings-, uddannelses- og digitaliseringsministeren«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id7029a344-5e42-4582-828c-92eb588650eb">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id59e296f7-570d-4999-8c4b-0a53cd953535">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="id4e1bd910-0460-4805-a7d8-7282100400e4">
+          <AendringDefinition id="id60c35599-7527-4d33-bf57-d52f55d77aa9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5 a, stk. 6, </Char>
+                <Char>indsættes efter »mellem«: »Udbetaling Danmark,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id4bde4527-d05c-419c-b6fe-3e87726d0691">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idbc98053a-b03e-4480-ae8f-86a2a26966e1">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="iddbc19470-7394-4407-8b3f-322715a87742">
+          <AendringDefinition id="id89f0784f-ee59-4de3-9710-a08c73bbefc5">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6, stk. 2 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 1. pkt., </Char>
+                <Char>ændres »Styrelsens« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id2484b6c0-950d-44b3-85dd-a06578bfbf5e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id12444cbb-f939-4b03-adfb-c3c51204d890">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idef178692-df13-4917-92f8-8cc614fb3e14">
+          <AendringDefinition id="idfa124393-b9ee-4273-b8e4-36c8b7d2c7b3">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6 </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idc9cad007-7065-4ac1-a021-6a92e6d61c0a">
+            <AendringNyTekst>
+              <Paragraf id="id542f7bd0-4335-486e-a132-4ecd43099091" localId="6">
+                <Explicatus>§ 6.</Explicatus>
+                <Stk id="id9617c62f-6ade-4030-ae1a-71d170878cae">
+                  <Exitus>
+                    <Linea>
+                      <Char>Udbetaling Danmarks afgørelser efter § 4 b, stk. 1, og § 4 c, stk. 1, kan indbringes for Ankenævnet for Statens Uddannelsesstøtteordninger efter reglerne i lov om Ankenævnet for Statens Uddannelsesstøtteordninger af adressaten for afgørelsen.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Klagen skal indbringes, inden 4 uger efter at klageren har fået meddelelse om afgørelsen.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id48035d5e-a4f5-48b7-a37c-fd10bf202caa" localId="4">
+      <Explicatus>§ 4</Explicatus>
+      <Rubrica id="id6c56a567-7c18-44a9-a8d8-3e82dce88caf">
+        <Linea>
+          <Char formaChar="Italic">Undervisningsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v., jf. lovbekendtgørelse nr. 379 af 13. marts 2026, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idec200a99-c6ab-431e-a59b-e9648df6cf27">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id839880da-abf6-4497-8d21-490b4c9340c9">
+          <AendringDefinition id="id7f8f8ba5-7b41-4922-afcf-030b845d387f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, 1. pkt., </Char>
+                <Char>ændres »Børne- og Undervisningsministeriet« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id329e6982-4e6c-44b2-9c07-091ba2d539ab">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idab45f39a-70b9-446b-9a18-38aa4cdc0c1f">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id65a1b02e-4100-46a5-bf1d-0450d25a14f9">
+          <AendringDefinition id="id86d670b3-bbc8-48e0-8c11-c7614f4f0332">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, 2. pkt., </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9b615615-bacb-4737-89ce-2f4346f842e2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id647f6366-667b-43a3-b5e1-2a0dae88df84">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id90d6b9df-a5bc-4cc6-b0a9-f1bc29cb854c">
+          <AendringDefinition id="idb448c77d-c148-4481-94b1-c16f52d1876f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, 3. pkt., </Char>
+                <Char>der bliver 2. pkt., ændres »ministeriet eller den myndighed, der efter 2. pkt. er bemyndiget dertil,« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id578de36b-1cf4-4f44-9a5b-98348f4f8af2">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id517cf1f6-6950-4404-acba-6e83f414204a">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="id089a7d39-5f3c-429a-9b30-58beb5bc77a7">
+          <AendringDefinition id="idc85ec035-4331-483c-97e3-d67822ccb242">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 2, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id381f6e46-72a3-4294-a755-18e1eb59adf5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="iddf6573df-dae8-43c6-ae6c-1b1f2de4ccac">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="id94f13dd2-7e93-42d6-8d3c-3b938dad6016">
+          <AendringDefinition id="id2cf2f3ac-f13a-4461-ad52-55949157cdf9">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 2, stk. 1, nr. 5, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id207b176a-4ff0-464a-9a9e-fb31bdf684b4">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id7616e1be-d25a-4770-b50b-1742567ed4cb">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 6 og 7 bliver herefter nr. 5 og 6.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="idc1b415f3-91fb-497a-8952-4cc113513ead">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id527f9d63-f1c0-469c-89b7-6151b5323021">
+          <AendringDefinition id="ide126adb1-e1c9-4994-ba35-1ad57530949d">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 4, stk. 2, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfc6f42b3-b7ea-43f7-8d8c-bc9f11196cf5">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="id57aca533-8845-45e5-80ed-21b19b88d930">
+          <Exitus>
+            <Linea>
+              <Char>Stk. 3 bliver herefter stk. 2.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id78759a26-309c-429e-b886-a5f78f57b995">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="ide52fcf57-658e-4844-8035-e82502b4334d">
+          <AendringDefinition id="id4ce3f5b5-d442-4433-af7b-105885ab7682">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 5, 1. pkt., § 8, stk. 1, 1. pkt., § 9, stk. 2, § 9 a, stk. 2, § 9 b, stk. 1, § 11, stk. 3, 2. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 2, 1. </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">2. pkt.,</Char>
+                <Char> ændres »Ministeriet eller anden statslig myndighed« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id5ecd54c6-a12f-4f7e-aa64-fc365f99a649">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id9edd41be-b1a0-43b6-abf0-403c765f02a2">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="id3a56712c-3499-4f1e-a358-9e8dc186e73b">
+          <AendringDefinition id="idb68ca223-af02-4097-8a5a-d828c7910f34">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 6, stk. 1, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 7, </Char>
+                <Char>ændres »ministeriets eller anden statslig myndigheds« til: »Udbetaling Danmarks«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idce0e421e-5a05-4fe1-9038-2108ef31a92c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id00af8d62-5bef-4a19-ba78-30f8557ebff4">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="ida6dbf16c-4c4b-40d3-9445-0a4992c25ec1">
+          <AendringDefinition id="id330475e6-e0fd-4f7a-890b-b0008f98013f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 2, </Char>
+                <Char>ændres »nr. 7« til: »nr. 6«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id9cca9b31-ad76-454c-bf6e-85f2bc8aca4c">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ide20d25ec-379d-43bd-9d5a-c280f5885699">
+        <Explicatus>10.</Explicatus>
+        <Aendring id="idce17c92f-f85d-4c2b-adf2-ec549ddbe240">
+          <AendringDefinition id="id88862ef5-a98f-413d-990f-6a47ba013f75">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9, stk. 3 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">4, </Char>
+                <Char>ændres »Uddannelsesstedet« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id78c98a26-4481-4b32-baee-763800c6d1ea">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id5b2ae816-8f24-4fd1-ad24-663dc9a26f10">
+        <Explicatus>11.</Explicatus>
+        <Aendring id="id3b7d31ac-2d30-4d37-83eb-205370953dda">
+          <AendringDefinition id="id0d5863ad-a189-4c6e-99b8-c91a57d60d78">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 9 c, stk. 1, 1. pkt., </Char>
+                <Char>udgår »ministeriets eller anden statslig myndigheds«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id386b7590-8cf3-41e6-bf8d-6631ae44042b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id75f7915e-a856-44eb-8da0-f15938a0bf18">
+        <Explicatus>12.</Explicatus>
+        <Aendring id="idfddfa828-21e9-474d-a369-b75266e774c3">
+          <AendringDefinition id="id802143ee-145e-41e9-80ff-09988e13bf9f">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 11, stk. 3, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 6, nr. 1-3, § 13, stk. 1, 1. pkt., </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> stk. 2, § 15, 1. pkt., </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, stk. 2 </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">stk. 3, 1. pkt.,</Char>
+                <Char> ændres »ministeriet eller anden statslig myndighed« til: »Udbetaling Danmark«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3bb59a1b-413b-40c7-a745-dc3c6b32280d">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb6214239-9fa2-4d1f-9aec-731d7516edf6">
+        <Explicatus>13.</Explicatus>
+        <Aendring id="idada6b0cc-0964-49c3-afcc-50472e7c7bc3">
+          <AendringDefinition id="iddff4be7c-afdc-44e0-bdff-6f0b93486271">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 2, </Char>
+                <Char>udgår »og træffer afgørelse efter § 4, stk. 2, og § 9, stk. 3 og 4«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idb1cf65ca-c53e-4374-9511-6ca684d69278">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id46b6f8fa-8130-4c30-b35f-eefbd01b7a48">
+        <Explicatus>14.</Explicatus>
+        <Aendring id="idbf64e4d6-ed71-44a3-955b-058be77a8884">
+          <AendringDefinition id="idb0eb71e0-c523-48bb-aead-b7b9d7a2b123">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 3, </Char>
+                <Char>affattes således:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idf52568ac-ccd0-4b51-bef1-ffe77b83cf2e">
+            <AendringNyTekst>
+              <Stk id="idefeb774d-c7ac-420e-bb89-21083b04722c">
+                <Explicatus>Stk. 3.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Undervisningsministeren fører tilsyn med uddannelsesstedernes administration og kan kræve alle oplysninger, der er nødvendige for varetagelsen af tilsynet.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id1d9fcf63-6d6c-4a41-992e-e98985f92399">
+        <Explicatus>15.</Explicatus>
+        <Aendring id="ide9ae0063-3a2e-48f1-a80a-84631b6a412b">
+          <AendringDefinition id="ide253911b-90e2-4f31-81c9-edc2ed71a39e">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 13, stk. 4, </Char>
+                <Char>ændres »ministeriet eller anden statslig myndighed« til: »Udbetaling Danmark, Uddannelses- og Forskningsstyrelsen«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id469d6e48-99f9-4c21-9d64-8e37d0f673d1">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8cee78b8-1ab4-4f77-be5f-4135f28ecae9">
+        <Explicatus>16.</Explicatus>
+        <Aendring id="id01819a42-5786-48be-9bca-758306c295f7">
+          <AendringDefinition id="id3a25cac9-8abc-4e73-96c4-eda82036c1b9">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 16, stk. 1, </Char>
+                <Char>udgår »§ 4, stk. 2, § 9, stk. 3 og 4, og«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idd64c2bf0-86cb-4929-8bc3-91d0ea9fa573">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="ida8dd0c0e-44d2-45a9-ab9e-1a77561be00c">
+        <Explicatus>17.</Explicatus>
+        <Aendring id="id9ce6ba7f-f0cf-4e5e-a89a-82a911a7cf4d">
+          <AendringDefinition id="id4c816774-1985-40be-a464-8cafaea88889">
+            <Exitus>
+              <Linea>
+                <Char>Efter § 16 indsættes i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">kapitel 6:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ida7ccdb25-fb24-45df-a230-7ae5b48c4435">
+            <AendringNyTekst>
+              <Paragraf id="id709336e2-3b62-4ca4-8387-55eb22a51e5d" localId="16a">
+                <Explicatus>§ 16 a.</Explicatus>
+                <Stk id="id514c2d9c-da2a-41e0-8cb4-a7c0500f112a">
+                  <Exitus>
+                    <Linea>
+                      <Char>Har undervisningsministeren bemyndiget en styrelse under Undervisningsministeriet til at udøve de beføjelser, der i denne lov er tillagt ministeren, kan styrelsens afgørelser ikke indbringes for ministeren, jf. dog stk. 2.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id8de155c8-777d-49d1-9004-f27c12824696">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Undervisningsministeren kan fastsætte regler om, at visse typer af afgørelser, der er truffet i henhold til bemyndigelsen, i et nærmere bestemt omfang kan indbringes for ministeren.</Char>
+                    </Linea>
+                    <Linea>
+                      <Char>Ministeren kan i den forbindelse fastsætte regler om adgangen til at klage og fremgangsmåden herved.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+              <Paragraf id="id99f3d294-66c6-4364-bda2-233bb90dedc8" localId="16b">
+                <Explicatus>§ 16 b.</Explicatus>
+                <Stk id="id771a9924-a8d0-4fda-bfda-65390cbfb417">
+                  <Exitus>
+                    <Linea>
+                      <Char>Undervisningsministeren kan bemyndige en anden statslig myndighed efter forhandling med vedkommende minister til at udøve de beføjelser, der i denne lov er tillagt undervisningsministeren.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+                <Stk id="id0dce3a9e-67eb-4e56-a29c-a619f9e73164">
+                  <Explicatus>Stk. 2.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>Undervisningsministeren kan fastsætte regler om udøvelsen af de beføjelser, som en anden statslig myndighed er bemyndiget til at udøve efter regler fastsat i medfør af stk. 1.</Char>
+                    </Linea>
+                  </Exitus>
+                </Stk>
+              </Paragraf>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id730f781e-3abe-446b-b2ac-f02c49b2c3f5" localId="5">
+      <Explicatus>§ 5</Explicatus>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 1046 af 18. august 2025, som ændret ved § 19 i lov nr. 719 af 20. juni 2025 og § 1 i lov nr. 1630 af 16. december 2025, foretages følgende ændring:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="id6d5dd6f6-22fd-4be8-836d-022e7d5f5778">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id2e934921-0702-47d0-93e3-6eda0519e693">
+          <AendringDefinition id="idc221e2ac-59ee-4bd0-abc3-1ec190b58f7b">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1 </Char>
+                <Char>indsættes som </Char>
+                <Char formaChar="Italic">stk. 4:</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id41ffb343-2841-42bf-8450-6b164217f0c7">
+            <AendringNyTekst>
+              <Stk id="idbdd28b59-b5fb-4ba3-862d-ae8e60df35e1">
+                <Explicatus>Stk. 4.</Explicatus>
+                <Exitus>
+                  <Linea>
+                    <Char>Arbejdsgivernes Uddannelsesbidrag varetager endvidere administration af statens voksenuddannelsesstøtte i henhold til lov om statens voksenuddannelsesstøtte.</Char>
+                  </Linea>
+                </Exitus>
+              </Stk>
+            </AendringNyTekst>
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <AendringCentreretParagraf id="id1c47b5a7-a7bc-4b32-965d-4749ddc834b3" localId="6">
+      <Explicatus>§ 6</Explicatus>
+      <Rubrica id="id6404dccf-c6ad-4cf8-9592-37bd842ea90b">
+        <Linea>
+          <Char formaChar="Italic">Beskæftigelses- og Ligestillingsministeriet</Char>
+        </Linea>
+      </Rubrica>
+      <Exitus>
+        <Linea>
+          <Char>I lov om Udbetaling Danmark, jf. lovbekendtgørelse nr. 1034 af 2. september 2024, som ændret senest ved § 16 i lov nr. 357 af 3. marts 2026, foretages følgende ændringer:</Char>
+        </Linea>
+      </Exitus>
+      <AendringsNummer id="idb1a5e0c4-597d-42af-abb9-01ea4ce7f61c">
+        <Explicatus>1.</Explicatus>
+        <Aendring id="id301949ca-5818-48c4-b966-48b8fba55ed8">
+          <AendringDefinition id="idbaa99228-d3d4-4e68-b449-ed0494f21563">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1, stk. 1, nr. 4, </Char>
+                <Char>ændres »41« til: »40«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="ide81f7dac-53a8-4db5-b153-e44ce946e425">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id251e6aff-314a-472e-bf37-603a8c62b898">
+        <Explicatus>2.</Explicatus>
+        <Aendring id="id22c6021d-28a9-4b52-818b-ee131fbb24c0">
+          <AendringDefinition id="id11690bab-b801-4548-b7dd-5ccae093a4a1">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 1 a, nr. 34, </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="iddbda76ab-0f34-43ee-bcb5-87a424321900">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+        <Rykningsklausul id="ideada23a5-2a35-4676-8b12-46fb650bc86e">
+          <Exitus>
+            <Linea>
+              <Char>Nr. 35-46 bliver herefter nr. 34-45.</Char>
+            </Linea>
+          </Exitus>
+        </Rykningsklausul>
+      </AendringsNummer>
+      <AendringsNummer id="id9a3b90d5-4f92-40b4-a3b3-c3ef88432962">
+        <Explicatus>3.</Explicatus>
+        <Aendring id="id7912300e-b7f7-4d02-93e7-67b915164e24">
+          <AendringDefinition id="id7067a8ad-49c4-4c28-b626-590e1ced7812">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 1 </Char>
+                <Char>og</Char>
+                <Char signiChar="AendringURN" formaChar="Italic"> 2, </Char>
+                <Char>indsættes efter »§ 1«: »og § 1 a, nr. 33,«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id11b63162-a29f-4b89-b6b7-145957324e59">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idb4a86d6c-503e-444d-96f9-cf31b8f05d54">
+        <Explicatus>4.</Explicatus>
+        <Aendring id="ida50cd528-70e4-4cd0-896b-464410c1b579">
+          <AendringDefinition id="ide14c8e75-cabc-4385-90d5-7fa1874bec87">
+            <Exitus>
+              <Linea>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12, stk. 3 </Char>
+                <Char>og</Char>
+                <Char formaChar="Italic"> 4, </Char>
+                <Char>og </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12 b </Char>
+                <Char>ophæves.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="idfcb3632c-3dfb-497c-8271-559dc38d093b">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id8996d390-457a-4ec3-ae25-104cd438655f">
+        <Explicatus>5.</Explicatus>
+        <Aendring id="idfe0f6068-490e-44a1-ab8f-d82e935dc858">
+          <AendringDefinition id="idd59ebe12-aee3-4d70-8e22-3a4f1976aead">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12 d, stk. 1, </Char>
+                <Char>udgår »Styrelsen for Institutioner og Uddannelsesstøtte,«, og</Char>
+                <Char formaChar="Bold"></Char>
+                <Char>»§§ 12 b og 12 c« ændres til: »§ 12 c«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id56bea250-91d4-48b7-9adf-f0c83efa9c0e">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id05971cb7-6c24-4ad9-af47-edef021bbb9f">
+        <Explicatus>6.</Explicatus>
+        <Aendring id="id2db6fd6f-c0a7-482b-94d6-1748f3e245a4">
+          <AendringDefinition id="id90590268-a2ba-4ef1-b23e-6e43b9e975aa">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 12 d, stk. 2, 1. pkt., </Char>
+                <Char>ændres »§§ 12 a-12 c« til: »§§ 12 a og 12 c«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id3d367033-b4ca-4702-8991-2adf778563cd">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idca8e49dc-4f01-496d-8d92-2816a1e78a8c">
+        <Explicatus>7.</Explicatus>
+        <Aendring id="id1fa88e04-3419-47cb-bd8b-fcf98bc84ff3">
+          <AendringDefinition id="id008cc6c3-6d2a-4688-a195-9534db1aaea1">
+            <Exitus>
+              <Linea>
+                <Char>To steder i </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12 d, stk. 3, 1. pkt., </Char>
+                <Char>ændres »§§ 12 b og 12 c« til: »§ 12 c«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id09d09e3a-1e49-43e7-923a-800763baa094">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="id88067990-cd47-47ec-8bb0-2ab0447c2357">
+        <Explicatus>8.</Explicatus>
+        <Aendring id="idf3ce6d1d-4895-4ac3-8603-2e921197978b">
+          <AendringDefinition id="id3e90cc33-f663-45d7-beb1-c3f5f00f454c">
+            <Exitus>
+              <Linea>
+                <Char>I </Char>
+                <Char signiChar="AendringURN" formaChar="Italic">§ 12 f </Char>
+                <Char>ændres »§§ 12 b-12 e« til: »§§ 12 c-12 e«.</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id330569a6-00c3-49d5-b58e-418f1bc43e66">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+      <AendringsNummer id="idcd67c3d5-38fd-4566-9010-d0341eb3f660">
+        <Explicatus>9.</Explicatus>
+        <Aendring id="id858d2ee5-b0ff-4abd-9afa-3bf0d34d9b5e">
+          <AendringDefinition id="id88c7b82e-d04d-442c-b364-b5a364f573c0">
+            <Exitus>
+              <Linea>
+                <Char>I</Char>
+                <Char formaChar="Italic"> § 32, stk. 2, 1. pkt., </Char>
+                <Char>ændres »95 mio. kr.« til: »115 mio. kr.«</Char>
+              </Linea>
+            </Exitus>
+          </AendringDefinition>
+          <AendringAktion id="id22c30b7c-6d9b-48b7-8b3b-a040ec9508d9">
+            <AendringNyTekst />
+          </AendringAktion>
+        </Aendring>
+      </AendringsNummer>
+    </AendringCentreretParagraf>
+    <IkraftCentreretParagraf id="idfd983d9d-884f-4e31-a545-746edfc48ec5" localId="7">
+      <Explicatus>§ 7</Explicatus>
+      <Stk id="idaa4dd1dc-f050-41ea-872b-30107bc64f65">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Loven træder i kraft den 1. oktober 2026, jf. dog stk. 2 og 3.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idc188e155-d52f-458a-81d0-4b7fdee383c2">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 2, nr. 7 og 9, § 3, nr. 5, 6, 8 og 12, og § 4, nr. 6, 10, 13 og 16, træder i kraft den 1. maj 2027.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id74c3d6e4-e1ba-45a0-be51-a94f38de0a6a">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>§ 1, nr. 12 og 14, og § 2, nr. 13, træder i kraft den 1. november 2027.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id7e5f0e16-55f0-4310-97bf-b0efc0560fb4">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>I de sager, hvor det i medfør af SU-lovens § 42 er henlagt til uddannelsesinstitutionerne at træffe afgørelser, eller hvor afgørelsen i medfør af SVU-lovens § 22 er truffet af uddannelsesstedet, skal uddannelsesinstitutionerne træffe afgørelse, når sagen er modtaget før den 1. maj 2027.</Char>
+          </Linea>
+          <Linea>
+            <Char>Indbringes en sag for Ankenævnet for Statens Uddannelsesstøtteordninger, og hjemvises sagen af Ankenævnet for Statens Uddannelsesstøtteordninger til fornyet behandling den 1. maj 2027 eller senere, skal sagen behandles af Udbetaling Danmark i første instans, uanset om en uddannelsesinstituti‍on tidligere har truffet afgørelse i sagen.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id4c10fbe9-7c10-4f82-bf32-f4c3861062cf">
+        <Explicatus>Stk. 5.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Regler udstedt i medfør af § 21, stk. 7, i lov om statens voksenuddannelsesstøtte, jf. lovbekendtgørelse nr. 53 af 23. januar 2020, som ændret ved § 2 i lov nr. 672 af 26. maj 2020, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 21, stk. 7, som affattet ved denne lovs § 2, nr. 11.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+    <IkraftCentreretParagraf id="id554d1cc7-34e4-4a2a-9d7d-8a4a70484c86" localId="8">
+      <Explicatus>§ 8</Explicatus>
+      <Stk id="iddcc6b4c5-a353-4b14-8920-f909de827285">
+        <Explicatus>Stk. 1.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Arbejdsmarkedets Tillægspension overtager fra tidspunktet for overførslen af opgaver fra Uddannelses- og Forskningsstyrelsen til Arbejdsgivernes Uddannelsesbidrag og Udbetaling Danmark medarbejdere, der er ansat i Uddannelses- og Forskningsstyrelsen i henhold til kollektiv overenskomst, bestemmelser om løn- og ansættelsesforhold, der er fastsat eller godkendt af en offentlig myndighed, eller som er ansat efter individuel aftale, og som udelukkende eller overvejende er beskæftiget med opgaver, der overføres til de nævnte myndigheder.</Char>
+          </Linea>
+          <Linea>
+            <Char>Lov om lønmodtageres retsstilling ved virksomhedsoverdragelse finder tilsvarende anvendelse ved overtagelsen af medarbejderne.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="idc080201b-c304-4ffb-b400-889196818b45">
+        <Explicatus>Stk. 2.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Arbejdsmarkedets Tillægspension bærer fra tidspunktet for overdragelsen af opgaver fra Uddannelses- og Forskningsstyrelsen til Arbejdsgivernes Uddannelsesbidrag og Udbetaling Danmark vederlagskrav og andre forpligtelser for de medarbejdere, der overtages, jf. stk. 1.</Char>
+          </Linea>
+          <Linea>
+            <Char>Forsknings-, Uddannelses- og Digitaliseringsministeriet bærer vederlagskrav og andre forpligtelser, der er optjent eller vedrører tiden før overtagelsesdagen, uanset om de på denne dag er forfaldne til betaling.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="ida3991745-b11b-40eb-a6ec-3d6d4270ef95">
+        <Explicatus>Stk. 3.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Forsknings-, Uddannelses- og Digitaliseringsministeriet udarbejder i samarbejde med Arbejdsmarkedets Tillægspension senest 6 måneder efter overdragelsen sædvanlig refusionsopgørelse vedrørende alle vederlagskrav og andre forpligtelser omfattet af stk. 2 mellem Arbejdsmarkedets Tillægspension og Forsknings-, Uddannelses- og Digitaliseringsministeriet.</Char>
+          </Linea>
+          <Linea>
+            <Char>Refusionsopgørelsen udarbejdes i overensstemmelse med normale regnskabsprincipper for periodeafgrænsning.</Char>
+          </Linea>
+          <Linea>
+            <Char>Saldoen berigtiges kontant med tillæg af indskudsbevisrenten pro anno fra 6 måneder efter overtagelsen, til betaling sker.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+      <Stk id="id7b39fe10-04cf-4bb8-ba47-5d683148d3a9">
+        <Explicatus>Stk. 4.</Explicatus>
+        <Exitus>
+          <Linea>
+            <Char>Forsknings-, Uddannelses- og Digitaliseringsministeriet friholder Arbejdsmarkedets Tillægspension for ethvert krav efter stk. 2 og 3, som rettes mod Arbejdsmarkedets Tillægspension som følge af overtagelsen efter stk. 1 af medarbejdere, som ikke tiltræder ansættelse hos Arbejdsmarkedets Tillægspension.</Char>
+          </Linea>
+        </Exitus>
+      </Stk>
+    </IkraftCentreretParagraf>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="id595c4828-bfce-4b3e-b307-721ad16cd196">
+    <UnderskriftStedDato />
+    <Segl>
+      <Linea>
+        <Char>Under Vor Kongelige Hånd og Segl</Char>
+      </Linea>
+    </Segl>
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>

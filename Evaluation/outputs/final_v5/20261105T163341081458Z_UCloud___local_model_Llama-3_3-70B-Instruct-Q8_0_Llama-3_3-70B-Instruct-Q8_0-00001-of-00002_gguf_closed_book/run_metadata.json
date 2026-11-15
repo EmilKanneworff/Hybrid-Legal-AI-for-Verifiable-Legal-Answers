@@ -1,0 +1,56 @@
+{
+  "run_id": "20261105T163341081458Z_UCloud___local_model_Llama-3_3-70B-Instruct-Q8_0_Llama-3_3-70B-Instruct-Q8_0-00001-of-00002_gguf_closed_book",
+  "benchmark_id": "XSU-GUIDANCE-QA-V5",
+  "system": {
+    "system_id": "UCloud___local_model_Llama-3_3-70B-Instruct-Q8_0_Llama-3_3-70B-Instruct-Q8_0-00001-of-00002_gguf_closed_book",
+    "adapter": "openai_chat_completions",
+    "input_mode": "closed_book",
+    "max_tokens": 4096,
+    "timeout_seconds": 120,
+    "model": "Llama-3.3-70B-Instruct-Q8_0/Llama-3.3-70B-Instruct-Q8_0-00001-of-00002.gguf",
+    "base_url": "https://app-emil-llama-7k2q.cloud.sdu.dk/api/v1"
+  },
+  "system_config_sha256": "f9eb3335fddb408e1901fb9e60d03d1351c5474bc12487d349ba34d62f5b4d53",
+  "input_mode": "closed_book",
+  "case_ids": [
+    "xsu_sg_001_general_conditions",
+    "xsu_sg_002_permanence_requirement",
+    "xsu_sg_003_severity_assessment",
+    "xsu_sg_004_multiple_impairments",
+    "xsu_sg_005_work_capacity_scope",
+    "xsu_sg_006_work_history_information",
+    "xsu_sg_007_work_stopped_due_to_impairment",
+    "xsu_sg_008_completed_treatment_documentation",
+    "xsu_sg_009_medical_documentation_content",
+    "xsu_sg_010_congenital_impairment_documentation",
+    "xsu_sg_011_doctor_certificate",
+    "xsu_sg_012_current_specialist_statement",
+    "xsu_sg_013_specialist_declaration",
+    "xsu_sg_014_occupational_injury_opinion"
+  ],
+  "case_count": 14,
+  "expected_active_case_count": 14,
+  "complete_active_case_set": true,
+  "executed_testcases_sha256": "d95c1b75d57f6cad544be4a44329283d2fb6531bf504481990508edb3a021c6f",
+  "prompt_template_file": "Evaluation/prompts/plain_question_v1.txt",
+  "prompt_template_sha256": "61776709da5b98b2c3c9d5c50edb156f1ee230fb3f6627df2ea665e3f5a61d81",
+  "output_file": "Evaluation/outputs/final_v5/20261105T163341081458Z_UCloud___local_model_Llama-3_3-70B-Instruct-Q8_0_Llama-3_3-70B-Instruct-Q8_0-00001-of-00002_gguf_closed_book/outputs.jsonl",
+  "outputs_sha256": "1d562407a151dde200e9b879675c02c9657c606a4b2311b88522b7e436ff8e59",
+  "output_count": 14,
+  "run_error_count": 0,
+  "generation_parameters": {
+    "max_tokens": 4096,
+    "temperature": "provider_default",
+    "timeout_seconds": 120
+  },
+  "model_input_boundary": "Only the mode-specific visible input was sent to the provider; testcase.reference remained evaluator-only.",
+  "finished_utc": "2026-11-05T16:33:41.109190+00:00",
+  "warning": "Raw outputs require independent claim and answer-level coding, adjudication and release validation before thesis-result claims.",
+  "runner_file": "Evaluation/scripts/run_evaluation.py",
+  "runner_sha256": "c066ee9b0bbda8406396555b436546cebccd730aadb81cc825443e4213aa9974",
+  "provider_models_returned": [
+    "Llama-3.3-70B-Instruct-Q8_0/Llama-3.3-70B-Instruct-Q8_0-00001-of-00002.gguf"
+  ],
+  "testcases_path": "/Users/emilkanneworff/Desktop/Thesis/Evaluation/benchmark/testcases_su_guidance_qa_v5.jsonl",
+  "testcases_sha256": "9e7d2f28a83c8286e86a54594da584bdfcdec3b4b53a27692b74ff75682eed60"
+}

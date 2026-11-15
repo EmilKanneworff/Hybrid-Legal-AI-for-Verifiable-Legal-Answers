@@ -1,0 +1,2843 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dokument id="id498c8530-daef-4bce-9359-b0bada4eb1a0" SchemaLocation="http://www.retsinformation.dk/offentlig/xml/schemas/2025/08/19/VEJ.Retsinfo.LexDania_2.1.xsd">
+  <Meta id="id3b494f04-c8fb-472f-aa07-3ce648ac3c7b">
+    <DocumentType>VEJ#LOKDOK15</DocumentType>
+    <Rank>C</Rank>
+    <AccessionNumber>C20261015760</AccessionNumber>
+    <DocumentId>DP000054</DocumentId>
+    <UniqueDocumentId>258066</UniqueDocumentId>
+    <DocumentTitle>Vejledning om stipendium som tillæg til uddannelsessøgende, som på grund af varig fysisk eller psykisk funktionsnedsættelse har meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde (Handicaptillæg)</DocumentTitle>
+    <Year>2026</Year>
+    <DiesSigni>2026-10-05</DiesSigni>
+    <DateOfSubmit id="submit_1" />
+    <StartDate REFid="submit_1">2026-10-07</StartDate>
+    <EndDate REFid="submit_1">2026-10-07</EndDate>
+    <Status>Valid</Status>
+    <Number>10157</Number>
+    <AnnouncedIn>Retsinformation</AnnouncedIn>
+    <DiesEdicti>2026-10-07</DiesEdicti>
+    <Concerns id="concerns_1" />
+    <Ref_Accn REFid="concerns_1">A20230039529</Ref_Accn>
+    <Ref_Af REFid="concerns_1">2023-04-13</Ref_Af>
+    <Ref_Text REFid="concerns_1">Bekendtgørelse af lov om statens uddannelsesstøtte (SU-loven)</Ref_Text>
+    <Subject>SU</Subject>
+    <Subject>Handicaptillæg</Subject>
+    <Republished>Nej</Republished>
+    <Sign id="sign" />
+    <Signature REFid="sign">Julie Lungholt</Signature>
+    <Sub-Sign id="subsign" />
+    <Signature REFid="subsign">Cecilie Dam</Signature>
+    <PlaceOfSignature>Uddannelses- og Forskningsstyrelsen</PlaceOfSignature>
+    <JournalNumber>Forsknings-, Uddannelses- og Digitaliseringsmin.,\nUddannelses- og Forskningsstyrelsen, j.nr. 2026-13426</JournalNumber>
+    <Ministry>Forsknings-, Uddannelses- og Digitaliseringsministeriet</Ministry>
+    <AdministrativeAuthority>Uddannelses- og Forskningsstyrelsen</AdministrativeAuthority>
+  </Meta>
+  <TitelGruppe id="id89468bf5-9f99-4986-90cc-46c50e8efcd6">
+    <Titel id="id2a4df917-69a3-4d8d-ac1f-d79b6a680d68">
+      <Linea>
+        <Char>Vejledning om stipendium som tillæg til uddannelsessøgende, som på grund af varig fysisk eller psykisk funktionsnedsættelse har meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde (Handicaptillæg)</Char>
+      </Linea>
+    </Titel>
+  </TitelGruppe>
+  <DokumentIndhold id="id4a98972c-b077-43bf-ad11-7f22027ce0ec">
+    <TekstGruppe id="idfa62fe58-7219-48d5-9811-fbbed76427d2">
+      <Exitus>
+        <Table width="678" cellpadding="0cm,0.1cm,0cm,0.1cm" style="column-width: 16pt 11pt 21pt 31pt 71pt 359pt;border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; grid-H: 0pt none #000000; grid-V: 0pt none #000000;">
+          <Rubrica formaForma="Overskriftsnummer1" formaEx="Left" />
+          <Tr>
+            <Td valign="top" colspan="6" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Indholdsfortegnelse</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" colspan="6" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Indledning</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">2.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Baggrund og formål</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Betingelser for at få handicaptillæg</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1 Overblik over betingelserne</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>2 Almindelige betingelser</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3.2.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Den uddannelsessøgende har ret til, og modtager SU eller slutlån</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3.2.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">2 Særlige krav til visse uddannelsessøgende, der ikke er danske statsborgere</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3 Går på en videregående uddannelse eller dansk erhvervsuddannelse (EUD)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4 Varig fysisk eller psykisk funktionsnedsættelse, der indebærer meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3.4.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Hovedelementer i vurderingen</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3.4.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Varig funktionsnedsættelse</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3.4.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">2 Sværhedsgraden af funktionsnedsættelsen</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3.4.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3 Den uddannelsessøgendes erhvervsevne.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>5 Hvilke funktionsnedsættelser indgår i vurderingen?</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>6 Forhold, der indgår ikke i Udbetaling Danmarks vurdering</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>7 Afgrænsning ift.</Char>
+                </Linea>
+                <Linea>
+                  <Char>specialpædagogisk støtte (SPS)</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">4.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Dokumentation</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1 Typer af lægefaglig dokumentation, der skal vedlægges på ansøgningstidspunktet</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>2 Indholdet af den lægefaglige dokumentation</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>3 Medfødt funktionsnedsættelse</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>4 Funktionsnedsættelse opstået som følge af en ulykke eller opstået sygdom</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">5.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Indhentning af yderligere lægefaglige oplysninger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>5.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1  Udbetaling Danmarks mulighed for at indhente yderligere lægefaglige oplysninger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Den uddannelsessøgende anmodes om at indsende yderligere lægefaglige oplysninger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Frister</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">2 Anmoder den uddannelsessøgendes praktiserende læge om en lægeattest</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3 Anmoder om yderligere oplysninger fra ekstern institution</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Aktuel redegørelse fra speciallæge/hospital</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">2 Speciallægeerklæring</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">5.1.3.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="2" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">3 Udtalelse fra Arbejdsmarkedets Erhvervssikring</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">6.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Afvise uden realitetsbehandling og afslag på grund af varigheden ikke er opfyldt</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>6.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1  Udbetaling Danmarks muligheder for at afvise at realitetsbehandle en ansøgning om handicaptillæg</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">6.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">1 Opfylder ikke minimumskravene til dokumentation</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">6.1.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="3" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Italic">2 Den uddannelsessøgende har ikke en varig funktionsnedsættelse</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">7.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Udbetaling af handicaptillæg</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>7.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1 Tidsbegrænset handicaptillæg</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">8.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Nedsat fribeløb</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;" />
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>8.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="4" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char>1 Kontrol af indkomst</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+          <Tr>
+            <Td valign="top" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">9.</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+            <Td valign="top" colspan="5" style="border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;">
+              <Exitus>
+                <Linea>
+                  <Char formaChar="Bold">Klage til Ankenævnet for Statens Uddannelsesstøtteordninger</Char>
+                </Linea>
+              </Exitus>
+            </Td>
+          </Tr>
+        </Table>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">1.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Indledning</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Denne vejledning omhandler tillægsstipendium til uddannelsessøgende ved videregående uddannelser og på danske erhvervsuddannelser, som på grund af en varig psykisk eller fysisk funktionsnedsættelse har meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde, og derfor ikke i samme omfang som andre uddannelsessøgende kan tage erhvervsarbejde ved siden af deres studier (herefter handicaptillæg).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Handicaptillæg er et tillægsstipendium til SU og en del af statens uddannelsesstøtte (SU).</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark administrerer ordningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Formålet med vejledningen er at redegøre for reglerne om handicaptillæg, herunder for, hvornår den uddannelsessøgende er berettiget til handicaptillæg, hvilken dokumentation, der er nødvendig for, at Udbetaling Danmark kan træffe afgørelse, og hvordan Udbetaling Danmark behandler ansøgningerne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vejledningen retter sig mod de uddannelsessøgende og myndigheder med interesse i ordningen og administrationen heraf.</Char>
+        </Linea>
+        <Linea>
+          <Char>Vejledningen er et supplement til den generelle vejledning om SU, der fremgår af  Udbetaling Danmarks borgerrettede hjemmeside www.su.dk og af det elektroniske selvbetjeningssystem minSU, som den uddannelsessøgende skal anvende i forbindelse med ansøgning om handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">2.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Baggrund og formål</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Handicaptillægsordningen blev indført med virkning fra 1. august 2004, jf. lov nr. 1225 af 27. december 2003, om ændring af SU-loven, for uddannelsessøgende, der får SU inden for klippekortet, det vil sige videregående og private uddannelser, der giver ret til SU.</Char>
+        </Linea>
+        <Linea>
+          <Char>Med virkning fra 1. januar 2019 blev ordningen udvidet til også at omfatte uddannelsessøgende på danske erhvervsuddannelser, jf. lov nr. 464 af 29. april 2019.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Baggrunden for ordningen er at ligestille uddannelsessøgende med en varig funktionsnedsættelse, som på grund af medfødt handicap eller senere opstået handicap, sygdom eller ulykkestilfælde har meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde med andre uddannelsessøgende med hensyn til forsørgelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uddannelsessøgende med en varig funktionsnedsættelse kan have en begrænset evne til at påtage sig erhvervsarbejde som supplement til deres SU, og dermed ikke have et tilstrækkeligt økonomisk grundlag for at gennemføre en uddannelse på lige fod med andre uddannelsessøgende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Før handicaptillægsordningens indførelse var disse uddannelsessøgende henvist til at ansøge kommunens socialforvaltning om økonomisk støtte efter revalideringsbestemmelserne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette blev kaldt det dobbelte optag, fordi de uddannelsessøgende både skulle opfylde krav om studieegnethed og have valgt en uddannelse, som gav gode muligheder for efterfølgende beskæftigelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Med indførelsen af handicaptillægsordningen blev det dobbelte optag afskaffet for uddannelsessøgende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Sammen med den specialpædagogiske støtte efter lov om specialpædagogisk støtte ved videregående uddannelse (lov nr. 1507 af 7. december 2022) medvirker handicaptillægget således til at realisere det overordnede uddannelsespolitiske sigte, hvorefter uddannelsessøgende med funktionsnedsættelse skal kunne vælge at gennemføre en uddannelse, uanset deres funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Betingelser for at få handicaptillæg</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.1 Overblik over betingelserne</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>For at få handicaptillæg skal den uddannelsessøgende opfylde følgende betingelser:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>opfylde de almindelige betingelser for at få SU eller slutlån (afsnit 3.2)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>gå på en videregående uddannelse eller dansk erhvervsuddannelse (EUD) (afsnit 3.3), og</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>have en varig fysisk eller psykisk funktionsnedsættelse, der indebærer meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde (afsnit 3.4).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er en forudsætning for fortsat at modtage handicaptillæg, at den uddannelsessøgende vedbliver med at opfylde betingelserne, jf. SU-bekendtgørelsen § 36, stk. 3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.2 Almindelige betingelser</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">3.2.1 Den uddannelsessøgende har ret til, og modtager SU eller slutlån</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Handicaptillægget er et stipendium, som Udbetaling Danmark  tildeler som tillæg enten sammen med det almindelige SU-stipendium efter SU-lovens § 7, stk. 1, nr. 1, eller sammen med slutlån efter SU-lovens § 7, stk. 1, nr. 3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er derfor i alle tilfælde en forudsætning for at få handicaptillæg, at den uddannelsessøgende har ret til SU efter SU-loven.</Char>
+        </Linea>
+        <Linea>
+          <Char>De almindelige betingelser for retten til SU følger af SU-lovens §§ 2-2 b, og omfatter blandt andet, at den uddannelsessøgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>er indskrevet på, og gennemgår en uddannelse, der berettiger til SU eller slutlån,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>er studieaktiv</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>ikke samtidig modtager anden offentlig støtte, der tilsigter at dække den uddannelsessøgendes leveomkostninger, og</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>er dansk statsborger eller ligestillet hermed, jf. dog afsnit 3.2.2.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Som udgangspunkt skal den uddannelsessøgende være fyldt 18 år for at få SU i form af stipendier og lån.</Char>
+        </Linea>
+        <Linea>
+          <Char>Uddannelsessøgende ved videregående eller privat uddannelse kan dog, uanset alder, få SU-stipendium, og derved også handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Handicaptillægget følger den almindelige ret til SU og udbetales altid sammen med SU-stipendium eller slutlån.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at uddannelsessøgende, der ikke modtager SU i f.eks. måneder med lønnet praktik, fravalg af SU, orlov m.v., heller ikke kan få udbetalt handicaptillæg i disse måneder.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Endelig er uddannelsessøgende, der modtager handicaptillæg indtil januar 2027 omfattet af de samme regler om studieaktivitet, jf. SU-bekendtgørelsens kapitel 3, som andre uddannelsessøgende, se dog www.su.dk om SU-reformen om studieaktivitet og SU-klip for handicaptillægsmodtagere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">3.2.2 Særlige krav til visse uddannelsessøgende, der ikke er danske statsborgere</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Uddannelsessøgende, der er udenlandske statsborgere, har mulighed for at modtage SU, hvis de kan ligestilles med danske statsborgere efter SU-lovens § 2 b og regler fastsat i medfør deraf.</Char>
+        </Linea>
+        <Linea>
+          <Char>En uddannelsessøgende, der er udenlandsk statsborger, og er blevet ligestillet, er omfattet af SU-reglerne, herunder vedrørende handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der henvises til www.su.dk for en nærmere beskrivelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>For så vidt angår uddannelsessøgende EU-/EØS-statsborgere, der modtager SU på baggrund af deres status som arbejdstager eller selvstændig erhvervsdrivende i Danmark efter EU-retten, er der dog særlige omstændigheder, der begrænser mulighederne for at modtage handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Efter EU-domstolens praksis er det afgørende for, om der foreligger et arbejdstagerforhold, at en person i en vis periode præsterer ydelser mod vederlag for en anden og efter dennes anvisninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>For at kunne betragtes som arbejdstager gælder det, at beskæftigelsen skal være faktisk og reel, og ikke fremstår som et marginalt supplement.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil som udgangspunkt sige, at den uddannelsessøgende skal arbejde minimum 10-12 timer hver uge i en sammenhængende periode på 10 uger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark foretager altid konkrete vurderinger, hvor alle oplysninger om beskæftigelsen inddrages.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der henvises til www.su.dk for en nærmere beskrivelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Uddannelsessøgende, der er ligestillet som arbejdstagere eller selvstændige erhvervsdrivende i Danmark efter EU-retten, skal opretholde denne status for at opretholde retten til SU.</Char>
+        </Linea>
+        <Linea>
+          <Char>En uddannelsessøgende, der er ligestillet som arbejdstager i Danmark efter EU-retten, skal som udgangspunkt kontinuerligt arbejde 10-12 timer om ugen for at opretholde retten til SU, og er derfor som udgangspunkt ikke meget betydeligt begrænset i sin evne til at påtage sig erhvervsarbejde, jf. afsnit 3.4.1, om hovedelementer i vurderingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgende, der modtager SU på baggrund af status som arbejdstager eller selvstændig erhvervsdrivende i Danmark efter EU-retten, kan bevare denne status, og dermed retten til SU, i tilfælde af midlertidig uarbejdsdygtighed som følge af sygdom eller ulykke.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er blandt andet et krav, at der er tale om en midlertidig periode med uarbejdsdygtighed.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der henvises til www.su.dk for en nærmere beskrivelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arbejdstageren eller den selvstændige erhvervsdrivende kan ikke få handicaptillæg i perioden, hvor denne ikke kan arbejde på grund af midlertidig uarbejdsdygtighed som følge af sygdom, da arbejdsevnen i denne forbindelse er midlertidig nedsat og ikke varigt nedsat, som er en af betingelserne for at modtage handicaptillæg, jf. afsnit 3.4.1.1, om funktionsnedsættelsens varighed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>EU-/EØS-statsborgere, der har ret til SU, fordi de er ligestillet med danske statsborgere som følge af, at de kan betragtes som arbejdstagere eller selvstændige erhvervsdrivende i Danmark efter EU-retten, har som udgangspunkt således ikke mulighed for at modtage handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.3 Går på en videregående uddannelse eller dansk erhvervsuddannelse (EUD)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan kun tildele handicaptillæg til uddannelsessøgende, som er indskrevet på, og gennemgår en videregående uddannelse eller en dansk erhvervsuddannelse (EUD).</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Med danske erhvervsuddannelser forstås de uddannelser, der er omfattet af lov om erhvervsuddannelser (lovbekendtgørelse nr. 381 af 13. marts 2026), herunder også erhvervsuddannelser med EUX.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder bl.a., at der ikke kan tildeles handicaptillæg til uddannelsessøgende, som modtager SU til en erhvervslignende uddannelse uden for Danmark, da disse ikke er udbudt efter lov om erhvervsuddannelser.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der gives efter lovgivningen ikke handicaptillæg til uddannelsessøgende på de gymnasiale uddannelser eller VUC.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det nuværende snit afspejler den grundlæggende forskel, der er mellem uddannelserne, hvor både videregående uddannelser og erhvervsuddannelser – i modsætning til f.eks. de gymnasiale uddannelser – giver umiddelbare arbejdsmarkedskompetencer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.4 Varig fysisk eller psykisk funktionsnedsættelse, der indebærer meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">3.4.1 Hovedelementer i vurderingen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>For at være berettiget til handicaptillæg skal den uddannelsessøgende have en varig fysisk eller psykisk funktionsnedsættelse, der indebærer meget betydelige begrænsninger i evnen til at påtage sig erhvervsarbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Konkret betyder det, at styrelsen, med udgangspunkt i de lægefaglige oplysninger, lægger vægt på:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>At der er tale om en varig funktionsnedsættelse (afsnit 3.4.1.1).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Funktionsnedsættelsen og dens sværhedsgrad (arten og graden) (afsnit 3.4.1.2), herunder</Char>
+              </Linea>
+            </Exitus>
+            <Exitus>
+              <Index>
+                <Indentatio formaInd="Litra">
+                  <Explicatus>a.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>om der er gentagne sygdomsperioder og risiko for tilbagefald,</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Litra">
+                  <Explicatus>b.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>om der er iværksat relevant behandling, hvilken effekt denne har, og om den uddannelsessøgende i rimeligt omfang medvirker til behandlingen,</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+                <Indentatio formaInd="Litra">
+                  <Explicatus>c.</Explicatus>
+                  <Exitus>
+                    <Linea>
+                      <Char>om der er beskrevet restsymptomer eller bivirkninger af væsentligt omfang efter den iværksatte behandling, og</Char>
+                    </Linea>
+                  </Exitus>
+                </Indentatio>
+              </Index>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>I hvilket omfang den uddannelsessøgende har eller har haft erhvervsarbejde (afsnit 3.4.1.3).</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">3.4.1.1 Varig funktionsnedsættelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det er en grundlæggende forudsætning for at modtage handicaptillæg, at den uddannelsessøgende har en varig fysisk eller psykisk funktionsnedsættelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>En varig funktionsnedsættelse er som udgangspunkt en funktionsnedsættelse, der hverken af sig selv eller ved behandling, vil blive væsentligt bedre inden for en længere årrække.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Eksempler på varige funktionsnedsættelser (listen er ikke udtømmende):</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Varige fysiske funktionsnedsættelser:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Bevægelsesvanskeligheder som følge af svære muskel- og nervelidelser, f.eks. muskelsvind, sklerose, svære ryglidelser, cerebral parese.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Blinde og stærkt svagsynede.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Døve og svært hørehæmmede.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char formaChar="Italic">Varige psykiske funktionsnedsættelser:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Svære psykiske vanskeligheder f.eks. som følge af personlighedsforstyrrelse, spiseforstyrrelse, OCD eller angst.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Lidelser inden for det skizofrene spektrum.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Affektive lidelser, herunder bipolar sindslidelse, periodisk depression.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Opmærksomhedsforstyrrelse og autismespektrumforstyrrelse.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det betyder ikke, at enhver uddannelsessøgende med en varig funktionsnedsættelse som dem, der er nævnt ovenfor, uden videre vil være berettiget til at modtage handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Tilsvarende vil andre funktionsnedsættelser end de nævnte eventuelt kunne danne grundlag for tildeling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Listen er som nævnt ikke udtømmende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgende er som udgangspunkt ikke berettiget til handicaptillæg, hvis en sygdom, skade eller funktionsnedsættelse ikke allerede ved sin debut kan betragtes som varig eller kronisk.</Char>
+        </Linea>
+        <Linea>
+          <Char>En funktionsnedsættelse, der pr. definition ikke er varig, kan vurderes at være varig, hvis den har en varighed på omkring et år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Med andre ord skal den uddannelsessøgende som udgangspunkt have oplevet symptomer eller følger i mindst et år forud for ansøgningstidspunktet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Funktionsnedsættelser, som pr. definition ikke er varige, er f.eks. enkeltstående depression, en brækket arm, en enkeltstående operation, graviditetsbetinget sygdom, forværring af anden lidelse pga.</Char>
+        </Linea>
+        <Linea>
+          <Char>graviditet eller en enkeltstående sygdomsperiode.</Char>
+        </Linea>
+        <Linea>
+          <Char>Disse forhold vil ikke berettige til handicaptillæg, da de fleste kommer sig fuldstændigt inden for en overskuelig periode.</Char>
+        </Linea>
+        <Linea>
+          <Char>Oplistningen er ikke udtømmende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis en uddannelsessøgende er i gang med en behandling efter eksempelvis en ulykke, og effekten af denne behandling på afgørelsestidspunktet ikke kan vurderes, kan Udbetaling Danmark tildele et tidsbegrænset handicaptillæg, jf. afsnit 7.1, om tidsbegrænset handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">3.4.1.2 Sværhedsgraden af funktionsnedsættelsen</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Da vurderingen af arten og graden af funktionsnedsættelsen er selve kernen i vurderingen, er der ved SU-bekendtgørelsens § 37, fastsat minimumskrav til den dokumentation, som den uddannelsessøgende skal vedlægge sin ansøgning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se afsnit 4 om dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgendes funktionsnedsættelse skal være velbeskrevet og lægefagligt dokumenteret, før der kan tildeles handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark vurderer ansøgningerne individuelt på baggrund af de lægefaglige oplysninger, den uddannelsessøgende har uploadet med ansøgningen, og ud fra en samlet vurdering af den uddannelsessøgendes aktuelle symptomer, som er beskrevet i de lægefaglige oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det indgår f.eks. i vurderingen af sværhedsgraden:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvad den uddannelsessøgende fejler,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>i hvilket omfang funktionsnedsættelsen påvirker den uddannelsessøgendes daglige funktionsniveau, og dermed kommer til udtryk,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>om der er iværksat relevant behandling, hvilken effekt denne har, om der er beskrevet restsymptomer eller bivirkninger af behandlingen, og om den uddannelsessøgende i rimeligt omfang medvirker til behandlingen, og</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvor længe den uddannelsessøgende har været syg, om der er gentagne sygdomsperioder og risiko for tilbagefald.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis en uddannelsessøgende f.eks. lider af hovedpine eller migræne, indgår det i vurderingen, hvor ofte den uddannelsessøgende har hovedpine, hvor slemt den uddannelsessøgende har det, når denne har hovedpine, og hvor længe hovedpineanfaldene varer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I forhold til sygdomshistorik indgår det f.eks. i vurderingen, hvordan den uddannelsessøgendes symptomer eller sygdom har udviklet sig over tid.</Char>
+        </Linea>
+        <Linea>
+          <Char>Har den uddannelsessøgende f.eks. en kronisk tarmsygdom, indgår det i vurderingen af sværhedsgraden, om den uddannelsessøgende har haft gentagne behandlingskrævende sygdomsperioder, indlæggelser, hvor lang tid har de varet og behandlingseffekten.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Selv om en behandling har effekt, herunder formindsker den uddannelsessøgendes symptomer, kan der være restsymptomer, som opfylder kriteriet om sværhedsgrad.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan f.eks. være, at den uddannelsessøgende har bivirkninger af den medicinske behandling, denne er opstartet i.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette medtages således også i vurderingen, og det vil ofte være beskrevet i de lægefaglige journaler, som er udarbejdet af behandlingsstedet, og som skal vedlægges på ansøgningstidspunktet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er styrelsen, som vurderer, om der er tale om en funktionsnedsættelse af en sådan sværhedsgrad, at det medfører meget betydelige begrænsninger i den uddannelsessøgendes erhvervsevne, og dermed kan danne baggrund for tildeling af handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er ikke muligt at udarbejde en positivliste over hvilke varige funktionsnedsættelser, der udløser handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>En bestemt varig funktionsnedsættelse er således ikke ensbetydende med, at Udbetaling Danmark kan tildele handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Selv om én uddannelsessøgende har fået bevilget handicaptillæg som følge af en varig funktionsnedsættelse, er det ikke ensbetydende med, at andre med samme varige funktionsnedsættelse er berettigede til handicaptillæg, da f.eks. omfanget af symptomer kan variere fra person til person.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende har flere funktionsnedsættelser, foretager Udbetaling Danmark en samlet vurdering af, om den uddannelsessøgende opfylder betingelserne for at være berettiget til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>I det tilfælde skal den uddannelsessøgende, i forbindelse med sin ansøgning om handicaptillæg, indsende dokumentation for alle funktionsnedsættelserne samt oplyse, at denne søger på flere funktionsnedsættelser, jf. afsnit 3.5.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se i øvrigt afsnit 4 om dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">3.4.1.3 Den uddannelsessøgendes erhvervsevne.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>På baggrund af vurderingen af arten og graden af funktionsnedsættelsen vurderes også den uddannelsessøgendes erhvervsevne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det indgår bl.a. i vurderingen, i hvilket omfang den uddannelsessøgende har eller har haft erhvervsarbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Erhvervsevnen vurderes i forhold til arbejde for uddannelsessøgende.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan derfor ikke sammenlignes med den arbejdsevnevurdering, som kommunerne anvender.</Char>
+        </Linea>
+        <Linea>
+          <Char>Funktionsnedsættelsen er det afgørende element i  Udbetaling Danmarks vurdering af erhvervsevnen for uddannelsessøgende med en varig fysisk eller psykisk funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgende kan for eksempel ikke modtage handicaptillæg alene af den årsag, at denne er ordblind.</Char>
+        </Linea>
+        <Linea>
+          <Char>Handicaptillæg gives kun til uddannelsessøgende med meget betydelige begrænsninger i deres erhvervsevne, og der er f.eks. flere typer af erhvervsarbejde, man kan bestride, selv om man har læse-/skrivevanskeligheder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette følger desuden af Ankenævnet for Statens Uddannelsesstøtteordningers praksis.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se i øvrigt afsnit 3.6 om forhold, der ikke indgår i  Udbetaling Danmarks vurdering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det indgår i vurderingen af erhvervsevnen, i hvilket omfang den uddannelsessøgende har eller har haft erhvervsarbejde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Et erhvervsarbejde kan være et hvilket som helst job, den uddannelsessøgende kan varetage.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan f.eks. være lagerarbejde, caféjob, butiksarbejde, sætte varer på plads i et supermarked, eller besvare telefoner i et callcenter.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende f.eks. er i stand til at arbejde 5-6 timer om ugen, herunder i weekender, eller fuldtid 5-6 uger i årets ferier, er den uddannelsessøgende som udgangspunkt ikke berettiget til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Nogle uddannelser er indrettet således, at de uddannelsessøgende ikke har længere ferier.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette inddrages i vurderingen af erhvervsevnen, hvis den uddannelsessøgende oplyser om det.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>I vurderingen af den uddannelsessøgendes erhvervsevne indhenter Udbetaling Danmark oplysninger om arbejdstimer og indkomst fra Skattestyrelsen, og inddrager den uddannelsessøgendes egne oplysninger om tidligere arbejdsforhold, som den uddannelsessøgende skal angive i ansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Oplysninger om den uddannelsessøgendes erhvervsarbejde forud for ansøgningstidspunktet kan indgå i vurderingen af, om en uddannelsessøgende har ret til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det gælder navnlig, hvor arbejdsophøret ikke sker på grund af den uddannelsessøgendes funktionsnedsættelse, men andre forhold, og at der i tiden efter arbejdets ophør ikke er sket en forværring i arten og graden af funktionsnedsættelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Erhvervsarbejde under studiet indgår også i vurderingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgendes erhvervsarbejde både før og efter studiet indgår i den samlede vurdering.</Char>
+        </Linea>
+        <Linea>
+          <Char>Har en uddannelsessøgende f.eks. arbejdet efter funktionsnedsættelsen er indtrådt, vil det umiddelbart ikke tale for, at der er en funktionsnedsættelse af en sådan sværhedsgrad, at det berettiger til handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende efter det oplyste er ophørt i arbejdet på grund af funktionsnedsættelsen, ses der på arbejdets karakter i forhold til funktionsnedsættelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vurderes i den forbindelse, om den uddannelsessøgende, ud fra sagens øvrige oplysninger, vil være i stand til at varetage andre typer af arbejde, evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>med skånehensyn eller i mindre omfang.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark inddrager derfor også i vurderingen, om den uddannelsessøgende har haft gener, som medfører skånebehov i forhold til et erhvervsarbejde, og om den uddannelsessøgende f.eks. vil kunne varetage et arbejde, der ikke er fysisk belastende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Der tages udelukkende stilling til, om den uddannelsessøgende vil være i stand til at varetage et erhvervsarbejde med de ressourcer, som den pågældende har.</Char>
+        </Linea>
+        <Linea>
+          <Char>Arbejdsprøvning, særlig arbejdspladsindretning eller lignende indgår ikke.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark kontakter heller ikke nuværende eller tidligere arbejdsgivere.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Erhvervsarbejdets studierelevans, lokale forhold eller beskæftigelsessituationen indgår desuden ikke i vurderingen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det indgår heller ikke i vurderingen, om den uddannelsessøgendes funktionsnedsættelse medfører, at denne har svært ved at finde et erhvervsarbejde, eller om det i øvrigt er muligt at finde egnet erhvervsarbejde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vurderingen forholder sig i øvrigt alene til erhvervsevnen som uddannelsessøgende</Char>
+          <Char formaChar="Italic"></Char>
+          <Char>og ikke erhvervsevnen efter endt uddannelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.5 Hvilke funktionsnedsættelser indgår i vurderingen?</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det følger af SU-bekendtgørelsens § 37, stk. 2, at Udbetaling Danmark som udgangspunkt alene vurderer retten til handicaptillæg på baggrund af den eller de konkrete varige funktionsnedsættelser, som den uddannelsessøgende søger på baggrund af.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at den uddannelsessøgende specifikt skal angive i sin ansøgning om handicaptillæg, hvilken eller hvilke funktionsnedsættelser, der søges på baggrund af.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Er der f.eks. nævnt andre funktionsnedsættelser i den lægefaglige dokumentation, som den uddannelsessøgende har vedlagt, men har den uddannelsessøgende alene angivet én bestemt funktionsnedsættelse i sin ansøgning, vil Udbetaling Danmark udelukkende vurdere den funktionsnedsættelse, der er angivet i ansøgningen, jf. SU-bekendtgørelsens § 37, stk. 2.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende under behandlingen af sagen indsender fyldestgørende dokumentation for en anden varig funktionsnedsættelse, og oplyser, at den uddannelsessøgende også ønsker, at den nye funktionsnedsættelse også indgår, vil denne funktionsnedsættelse også blive inddraget i sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er således alene på den uddannelsessøgendes initiativ, at der evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>inddrages andre funktionsnedsættelser.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det forudsætter i øvrigt, at minimumskravene til dokumentation også er opfyldt for denne funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.6 Forhold, der indgår ikke i Udbetaling Danmarks vurdering</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Det indgår ikke i vurderingen, om den uddannelsessøgende, som følge af sin funktionsnedsættelse, bruger længere tid på sit studie, herunder lektielæsning og forberedelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgendes sociale og økonomiske forhold, som for eksempel forsørgerforpligtelser eller udgifter til medicin og behandling, indgår ikke i vurderingen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det indgår heller ikke i vurderingen, om den uddannelsessøgende eventuelt har lang transporttid til og fra studiet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgendes studiemæssige situation, det vil sige valg af studie og omfanget af undervisningstimer m.v., er heller ikke en del af vurderingen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">3.7 Afgrænsning ift.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">specialpædagogisk støtte (SPS)</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Nogle uddannelsessøgende modtager specialpædagogisk støtte (SPS) forud for ansøgning om handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark kan tilgå oplysninger herom, men der er som udgangspunkt ikke sammenfald mellem den gruppe uddannelsessøgende, som kan få SPS, og den gruppe, som kan få handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>De lægefaglige oplysninger, der ligger til grund for tildeling af SPS, kan indgå i vurderingen, men har som udgangspunkt ikke betydning for vurderingen af, om den uddannelsessøgende har ret til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det skyldes, at der er tale om to støtteformer, der tildeles på to forskellige lovmæssige grundlag.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">4.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Dokumentation</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">4.1 Typer af lægefaglig dokumentation, der skal vedlægges på ansøgningstidspunktet</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen, der skal vedlægges på ansøgningstidspunktet, skal som minimum indeholde journaler fra enten egen læge, speciallæge, hospital eller ambulant klinik.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dokumentationen skal beskrive den uddannelsessøgendes varige funktionsnedsættelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Dette følger af SU-bekendtgørelsens § 37, stk. 3, jf. § 37, stk. 1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgendes behandlingsforløb er afsluttet, vil dokumentationen som udgangspunkt også indeholde en epikrise eller afslutningsbrev.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Vedlægges denne dokumentation ikke, afviser Udbetaling Danmark behandling af sagen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se afsnit 6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentationen skal relatere sig til og være aktuel ift.</Char>
+        </Linea>
+        <Linea>
+          <Char>den eller de funktionsnedsættelser, som den uddannelsessøgende søger på baggrund af, jf. SU-bekendtgørelsens § 37, stk. 4, jf. dog afsnit 4.3, om medfødt funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Dokumentation, der er fastsat som minimumskrav, er dokumentation, som den uddannelsessøgende selv kan skaffe uden betaling.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Journaler, herunder udskrivningsbreve (epikriser) og henvisninger fra egen læge, hvis den uddannelsessøgende har været eller er i behandling på et</Char>
+                <Char formaChar="Italic"> offentligt sygehus</Char>
+                <Char>.</Char>
+              </Linea>
+              <Linea>
+                <Char>Denne dokumentation kan den uddannelsessøgende hente på sundhed.dk.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Journaler fra konsultationer hos den uddannelsessøgendes </Char>
+                <Char formaChar="Italic">egen praktiserende læge.</Char>
+              </Linea>
+              <Linea>
+                <Char>Denne dokumentation har den uddannelsessøgende som udgangspunkt ret til aktindsigt i.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Journaler fra privathospitaler og speciallæger, hvis den uddannelsessøgende har været eller er i behandling på et </Char>
+                <Char formaChar="Italic">privathospital eller i behandling hos en speciallæge.</Char>
+              </Linea>
+              <Linea>
+                <Char>Denne dokumentation har den uddannelsessøgende som udgangspunkt ret til aktindsigt i.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Anden dokumentation som også kan være relevant at indsende, men som ikke er et minimumskrav, da det ikke er alle uddannelsessøgende, som er i besiddelse af denne form for dokumentation:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char formaChar="Italic">Anden eksisterende lægefaglig dokumentation</Char>
+                <Char> såsom lægeattester, speciallægeudtalelser (f.eks. fra en arbejdsskadesag) eller neuropsykologiske undersøgelser om den uddannelsessøgendes funktionsnedsættelse, som den uddannelsessøgende eventuelt er i besiddelse af.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Har den uddannelsessøgende været i</Char>
+                <Char formaChar="Italic"> forløb ved kommunen</Char>
+                <Char>, kan der være relevante lægefaglige oplysninger herfra, f.eks. forløbsbeskrivelser fra anden aktør, arbejdsprøvninger og/eller lægeattester.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Har den uddannelsessøgende f.eks. haft tilknytning til kommunen i forbindelse med en sygemelding fra sit arbejde eller været i forløb, herunder uddannelseshjælp, kontanthjælp eller ressourceforløb, er der formentligt udarbejdet beskrivelser af den uddannelsessøgendes funktionsniveau, som denne har adgang til.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan også være lægeattester, der er indhentet i forbindelse med den uddannelsessøgendes forløb, eller hvis denne har været i arbejdsprøvning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Har den uddannelsessøgende været sygemeldt fra sin tidligere eller nuværende arbejdsplads, er der formentligt udarbejdet en lægeerklæring til arbejdsgiveren, som den uddannelsessøgende også kan vedlægge ansøgningen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">4.2 Indholdet af den lægefaglige dokumentation</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ved ansøgning om handicaptillæg skal den uddannelsessøgende på ansøgningstidspunktet vedlægge dokumentation i form af lægefaglige oplysninger, der viser, at den uddannelsessøgende har en varig funktionsnedsættelse, der kan give ret til handicaptillæg, samt en beskrivelse af denne, jf. SU-bekendtgørelsens § 37, stk. 3, jf. § 37, stk. 1.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se afsnit 3.4.1.1 om funktionsnedsættelsens varighed.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Derudover skal den uddannelsessøgende vedlægge lægefaglige oplysninger, som beskriver den uddannelsessøgendes udrednings- og behandlingsforløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vigtigt, at den uddannelsessøgende fremsender al relevant og aktuel dokumentation, der udførligt og fyldestgørende beskriver den uddannelsessøgendes funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved aktuel og fyldestgørende dokumentation menes:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Den uddannelsessøgendes diagnose (hvis der er stillet en)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Beskrivelse af sygdoms- og behandlingsforløbet</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvordan sygdommen eller funktionsnedsættelse kommer til udtryk/påvirker den uddannelsessøgendes daglige funktionsniveau</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>4)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvilken behandling, den uddannelsessøgende får</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>5)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvilken behandling, der er planlagt (hvis der er planlagt en)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>6)</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvordan den uddannelsessøgendes sygdom eller funktionsnedsættelse påvirker erhvervsevnen (hvis muligt)</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående oplysninger skal fremsendes, hvis den uddannelsessøgende har dette tilgængeligt via journalen eller anden eksisterende lægefaglig dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Lægefaglig dokumentation betragtes f.eks. ikke som udførlig og fyldestgørende, hvis ansøgeren alene vedlægger:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>en erklæring fra den uddannelsessøgendes egen læge, psykiater m.v., der blot bekræfter en diagnose,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>et medicinkort, der viser, at den uddannelsessøgende modtager medicin for en sygdom, eller</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>journaludskrift fra jobcenteret uden lægefaglige oplysninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>afgørelse f.eks. fra Arbejdsmarkedets Erhvervssikring, SPS mv. uden lægefaglige oplysninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ansøgninger, hvor ovenstående gør sig gældende, vil blive afvist af styrelse uden realitetsbehandling, da minimumskravet til dokumentationen ikke er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Læs mere herom i afsnit 6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Mistanke om en diagnose vil heller ikke i sig selv være tilstrækkeligt som lægefaglig dokumentation, medmindre der indsendes beskrivelser af symptomer, der nedsætter funktionsniveauet, også selvom der endnu ikke er stillet en diagnose.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En udtalelse fra en psykolog kan som udgangspunkt ikke stå alene, men den kan indgå i vurderingen af ansøgningen, hvis den f.eks. er underbygget af en udtalelse fra en speciallæge i psykiatri eller anden lægefaglig dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">4.3 Medfødt funktionsnedsættelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Uddannelsessøgende, som søger handicaptillæg på baggrund af en medfødt funktionsnedsættelse, er diagnosticeret og behandlet i barndommen eller i tidlig ungdom, og disse uddannelsessøgende har ofte ikke nyere lægefaglig dokumentation, der beskriver deres aktuelle funktionsniveau.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er i disse tilfælde især vigtigt, at den uddannelsessøgende indsender lægefaglige oplysninger om sin sygehistorik samt de seneste journalnotater vedr.</Char>
+        </Linea>
+        <Linea>
+          <Char>funktionsnedsættelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den uddannelsessøgende kan i sin personlige redegørelse beskrive den uddannelsessøgendes situation, så Udbetaling Danmark kan få et bedre indblik i, hvilken betydning funktionsnedsættelsen har.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ved medfødt funktionsnedsættelse forstås f.eks.:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Cerebral parese</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Muskelsvind</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Mental retardering</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Autismespektrumforstyrrelse</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Medfødt blindhed eller svagsynet</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Svært hørehæmmet eller døv</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ovenstående oplistning er ikke udtømmende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Har den uddannelsessøgende en medfødt funktionsnedsættelse, er det vigtigt, at den uddannelsessøgende på ansøgningstidspunktet indsender de seneste lægefaglige oplysninger, som beskriver den uddannelsessøgendes udrednings- og behandlingsforløb, samt evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>aktuelle symptomer.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan f.eks. være epikriser, journalnoter, der beskriver sygehistorikken, herunder hvilke udfordringer den uddannelsessøgende har samt de evt.</Char>
+        </Linea>
+        <Linea>
+          <Char>seneste afgørelser om fx bevilling af bostøtte/kontaktperson/mentor/hjælpemidler eller beskrivelser af eventuelle støtteforanstaltninger, der har været iværksat på tidligere uddannelser/arbejdspladser (skånehensyn).</Char>
+        </Linea>
+        <Linea>
+          <Char>Er der ikke dokumentation herfor, kan det indgå i den uddannelsessøgendes personlige redegørelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">4.4 Funktionsnedsættelse opstået som følge af en ulykke eller opstået sygdom</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Er den uddannelsessøgendes funktionsnedsættelse udsprunget af en (tidligere) ulykke eller lignende, skal den uddannelsessøgende være opmærksom på, om funktionsnedsættelsen er varig, jf. afsnit 3.4.1.1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgende er som udgangspunkt ikke berettiget til handicaptillæg, hvis en sygdom, skade eller funktionsnedsættelse ikke allerede ved sin debut er varig eller kronisk.</Char>
+        </Linea>
+        <Linea>
+          <Char>En funktionsnedsættelse, der pr. definition ikke er varig, kan vurderes at være varig, hvis den har en varighed på omkring et år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den uddannelsessøgende skal på ansøgningstidspunktet indsende de seneste lægefaglige oplysninger, som beskriver den uddannelsessøgendes udrednings- og behandlingsforløb samt aktuelle symptomer og udfordringer.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis en uddannelsessøgende er i gang med en behandling efter en ulykke eller et traume, og Udbetaling Danmark ikke endeligt kan fastslå effekten på afgørelsestidspunktet, kan Udbetaling Danmark tildele et tidsbegrænset handicaptillæg, jf. afsnit 7.1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det bemærkes, at uddannelsessøgende i tilfælde af afslag på grund, af at funktionsnedsættelsen ikke vurderes at være varig, kan blive henvist til muligheden for at søge om ekstra klip som tillæg til rammen og støttetiden på grund af sygdom, jf. SU-bekendtgørelsens § 28, stk. 3.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">5.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Indhentning af yderligere lægefaglige oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">5.1  Udbetaling Danmarks mulighed for at indhente yderligere lægefaglige oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis dokumentationen opfylder kravene til minimumsdokumentationen, som er beskrevet i afsnit 4, men Udbetaling Danmark vurderer, at der fortsat mangler oplysninger, kan Udbetaling Danmark i særlige tilfælde anmode om supplerende lægefaglige oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det kan f.eks. enten ske ved, at Udbetaling Danmark anmoder:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>1.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>den uddannelsessøgende om at sende yderligere lægefaglige oplysninger,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>2.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>om en lægeattest via den uddannelsessøgendes praktiserende læge,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Nummer">
+            <Explicatus>3.</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>om yderligere oplysninger direkte fra det hospital, speciallæge eller andet behandlingssted, som den uddannelsessøgende har været tilknyttet eller ved en uvildig speciallæge.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.1 Den uddannelsessøgende anmodes om at indsende yderligere lægefaglige oplysninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Har den uddannelsessøgende opfyldt minimumskravet til dokumentationen, jf. afsnit 4.1, men Udbetaling Danmark vurderer, at dokumentationen ikke er tilstrækkelig til, at Udbetaling Danmark kan træffe afgørelse om handicaptillæg, kan Udbetaling Danmark i første omgang bede den uddannelsessøgende om at indsende yderligere lægefaglige oplysninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan f.eks. være yderligere journaler fra offentligt sygehus, en redegørelse fra kommunen m.v.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark vil kun anmode om lægefaglige oplysninger, som Udbetaling Danmark vurderer, den uddannelsessøgende allerede er i besiddelse af.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der er således tale om eksisterende dokumentation, og den uddannelsessøgende skal derfor ikke betale for udfærdigelse af ny lægefaglig dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.1.1 Frister</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark vil i anmodningen om yderligere oplysninger hos den uddannelsessøgende indsætte en frist for, hvornår oplysningerne skal være sendt til styrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Er det ikke muligt for den uddannelsessøgende at indsende dette inden fristens udløb, skal den uddannelsessøgende kontakte Udbetaling Danmark for at bede Udbetaling Danmark om en fristforlængelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Medvirker den uddannelsessøgende ikke til indhentningen, det vil sige at den uddannelsessøgende ikke indsender yderligere oplysninger, herunder ikke anmoder om fristforlængelse, vil Udbetaling Danmark træffe afgørelse på det foreliggende grundlag.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder som oftest, at den uddannelsessøgende vil få afslag på sin ansøgning på grund af manglende medvirken til oplysning af sin sag, idet der således ikke er tilstrækkelig dokumentation for at behandle sagen, jf. SU-bekendtgørelsen § 37, stk. 6.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.2 Anmoder den uddannelsessøgendes praktiserende læge om en lægeattest</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>I de tilfælde, hvor Udbetaling Danmark ikke kan vurdere den uddannelsessøgendes funktionsniveau ud fra den indsendte dokumentation, kan Udbetaling Danmark indhente en lægeattest.</Char>
+        </Linea>
+        <Linea>
+          <Char>I en lægeattest skal den uddannelsessøgendes praktiserende læge forholde sig til den uddannelsessøgendes funktionsevne i forhold til den funktionsnedsættelse, som den uddannelsessøgende har søgt på baggrund af.</Char>
+        </Linea>
+        <Linea>
+          <Char>Desuden skal lægen redegøre for, hvorvidt der er behov for fortsat behandling eller henvisning til yderligere udredning eller behandling hos en specialist.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende skal medvirke til undersøgelserne, da anmodning om lægeattest som udgangspunkt er med fremmøde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan i særlige tilfælde i forbindelse med indhentning af en lægeattest indhente yderligere journaloplysninger, som omhandler funktionsnedsættelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Eventuelle udgifter i forbindelse med ovenstående indhentning afholdes af styrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.3 Anmoder om yderligere oplysninger fra ekstern institution</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Er der efter  Udbetaling Danmark s vurdering særligt behov for at belyse sagen yderligere, kan Udbetaling Danmark indhente sagkyndige udtalelser fra eksterne institutioner mv. med anerkendt ekspertise inden for relevante fagområder, jf. SU-bekendtgørelsen § 37, stk. 8.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark har mulighed for at anmode om en:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>aktuel redegørelse fra speciallæge/hospital,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>speciallægeerklæring, eller</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>udtalelse fra Arbejdsmarkedets Erhvervssikring.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende skal medvirke til undersøgelserne i det omfang, at anmodningerne er med fremmøde.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.3.1 Aktuel redegørelse fra speciallæge/hospital</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan i særlige tilfælde indhente en aktuel redegørelse, hvis</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Udbetaling Danmark er i besiddelse af journaloplysninger, som indikerer et funktionstab, men hvor funktionsniveauet og i hvilket omfang lidelsen påvirker den uddannelsessøgende, ikke er beskrevet.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>der tidligere er bevilget et tidsbegrænset handicaptillæg (afsnit 7.1), og hvor den uddannelsessøgende søger om forlængelse af tillægget.</Char>
+              </Linea>
+              <Linea>
+                <Char>I disse sager foreligger der ofte dokumentation, som er forældet, og derfor ikke beskriver den aktuelle tilstand.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>den uddannelsessøgende på ansøgningstidspunktet er påbegyndt et behandlingsforløb samtidig med, at der er begrænsede lægelige oplysninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En aktuel redegørelse vil således indeholde oplysning om, i hvilket omfang den uddannelsessøgendes symptomer påvirker den uddannelsessøgendes aktuelle funktionsevne som følge af den funktionsnedsættelse, der er søgt på baggrund af.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En aktuel redegørelse kræver som udgangspunkt, at den uddannelsessøgende møder op til en aftale hos speciallægen/hospitalet.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis lægen mener, at oplysningerne fremgår af patientjournalen og lægens kendskab til den uddannelsessøgende (f.eks. fordi det er kort tid siden, at den uddannelsessøgende har været set), kan lægen i stedet udfylde attesten på baggrund af de foreliggende oplysninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan i forbindelse med indhentning af en aktuel redegørelse indhente yderligere journaloplysninger, som omhandler funktionsnedsættelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark betaler eventuelle udgifter i forbindelse med ovenstående indhentning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.3.2 Speciallægeerklæring</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan i særlige tilfælde anmode om en speciallægeerklæring.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark anmoder herom, hvis den lægefaglige dokumentation, der er indsendt, ikke i tilstrækkelig grad beskriver arten og graden af den uddannelsessøgendes funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark anmoder f.eks. om en speciallægeerklæring, hvis:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>de lægefaglige oplysninger er mangelfulde i forhold til beskrivelser af symptomernes intensitet og hyppighed,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>der er diskrepans i mellem de lægefaglige oplysninger og den uddannelsessøgendes beskrivelser af udfordringer/symptomer,</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>der er stor tvivl om behandlingsmuligheder og prognose, eller</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>der er stor tvivl om den uddannelsessøgendes daglige funktionsniveau versus den uddannelsessøgendes funktionsniveau i ferieperioder.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark betaler eventuelle udgifter i forbindelse med ovenstående indhentning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst4" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">5.1.3.3 Udtalelse fra Arbejdsmarkedets Erhvervssikring</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan til brug for behandling af en ansøgning anmode Arbejdsmarkedets Erhvervssikring om en vejledende udtalelse om den uddannelsessøgendes evne til at arbejde.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udtalelsen udarbejdes på baggrund af den foreliggende dokumentation i sagen, og kræver ikke en undersøgelse af den uddannelsessøgende.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Arbejdsmarkedets Erhvervssikring foretager en vurdering af:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>hvor meget den uddannelsessøgendes funktionsnedsættelse påvirker den uddannelsessøgendes evne til at arbejde, og</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>om den uddannelsessøgendes funktionsevne er så nedsat, at denne ikke kan have et studiejob.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udtalelsen fra Arbejdsmarkedets Erhvervssikring er kun vejledende, hvorfor den uddannelsessøgende ikke kan klage over udtalelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende gør indsigelse mod den vejledende udtalelse, vil Arbejdsmarkedets Erhvervssikring kommentere på den uddannelsessøgendes indsigelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udtalelsen indgår i  Udbetaling Danmarks vurdering af, om den uddannelsessøgende er berettiget til handicaptillæg, men er ikke bindende for styrelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark betaler eventuelle udgifter i forbindelse med ovenstående indhentning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">6.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Afvise uden realitetsbehandling og afslag på grund af varigheden ikke er opfyldt</Char>
+        </Linea>
+      </Exitus>
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">6.1  Udbetaling Danmarks muligheder for at afvise at realitetsbehandle en ansøgning om handicaptillæg</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark kan træffe afgørelse om at afvise en ansøgning, hvis den uddannelsessøgende ikke opfylder minimumskravene til den lægefaglig dokumentation, der skal vedlægges på ansøgningstidspunktet, jf. afsnit 4.1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En afvisning af sagen betyder, at Udbetaling Danmark ikke realitetsbehandler ansøgningen, og dermed ikke tager indholdsmæssigt stilling til eventuelt vedlagt dokumentation.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den uddannelsessøgende har mulighed for at søge på ny, hvis Udbetaling Danmark afviser at behandle en ansøgning om handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">6.1.1 Opfylder ikke minimumskravene til dokumentation</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Ifølge SU-bekendtgørelsens § 37, stk. 3 vil en ansøgning, hvor den uddannelsessøgende f.eks. slet ikke vedlægger dokumentation i sin ansøgning om handicaptillæg, blive afvist.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det samme gælder, hvis den uddannelsessøgende f.eks. alene vedlægger følgende:</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Index>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>En erklæring fra den uddannelsessøgendes egen læge, psykiater m.v., der blot bekræfter en diagnose.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Et medicinkort, der viser, at den uddannelsessøgende modtager medicin for en sygdom.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Henvisning fra egen læge.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Journaludskrift fra jobcenteret uden lægefaglige oplysninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+          <Indentatio formaInd="Pind">
+            <Explicatus>-</Explicatus>
+            <Exitus>
+              <Linea>
+                <Char>Afgørelser f.eks. fra Arbejdsmarkedets Erhvervssikring, SPS mv. uden lægefaglige oplysninger.</Char>
+              </Linea>
+            </Exitus>
+          </Indentatio>
+        </Index>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det skyldes, at ovenstående ikke opfylder minimumskravene til den dokumentation, som den uddannelsessøgende skal vedlægge sin ansøgning, da den uddannelsessøgendes varige funktionsnedsættelse ikke er beskrevet fyldestgørende, jf. SU-bekendtgørelsens § 37, stk. 3, jf. § 37, stk. 1.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er vigtigt at være opmærksom på, at Udbetaling Danmark ikke opfordrer den uddannelsessøgende til at få udarbejdet og dermed betale for nye lægeerklæringer eller anden lægefaglig dokumentation.</Char>
+        </Linea>
+        <Linea>
+          <Char>Minimumskravet er fastsat med henblik på, at den uddannelsessøgende indsender allerede eksisterende lægefaglig dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Bliver en ansøgning afvist, har den uddannelsessøgende mulighed for at søge på ny, og i den nye ansøgning vedlægge dokumentation, som opfylder minimumskravene til dokumentationen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende søger på ny, og vurderes at være berettiget til handicaptillæg, vil handicaptillægget blive udbetalt på det nye ansøgningstidspunkt, jf. afsnit 7.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende har mulighed for at klage over afvisningen til Ankenævnet for Statens Uddannelsesstøtteordninger.</Char>
+        </Linea>
+        <Linea>
+          <Char>Klagen skal sendes til styrelsen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vigtigt at være opmærksom på, at en klage over en afvisning alene vil omhandle spørgsmålet, om Udbetaling Danmark var berettiget til at afvise ansøgningen, og ikke om den uddannelsessøgende er eller var berettiget til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se afsnit 9 om hvordan man klager over en afgørelse om handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftstekst3" formaEx="Left">
+        <Linea>
+          <Char formaChar="Italic">6.1.2 Den uddannelsessøgende har ikke en varig funktionsnedsættelse</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgende vil få afslag på sin ansøgning, hvis den dokumentation, den uddannelsessøgende har vedlagt på ansøgningstidspunktet, ikke viser, at den uddannelsessøgende har en varig funktionsnedsættelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er f.eks. tilfældet, hvis den uddannelsessøgende søger på baggrund af en funktionsnedsættelse, der pr. definition ikke er varig, herunder søger på baggrund af en brækket arm, en enkeltstående operation, en enkeltstående sygdomsperiode eller graviditetsrelaterede gener, som ikke berettiger til handicaptillæg, da de fleste kommer sig fuldstændig inden for en overskuelig periode.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er heller ikke muligt at ansøge om et tidsbegrænset handicaptillæg for en kort periode, fordi den uddannelsessøgende, f.eks. på grund af en operation, er sygemeldt fra sit studie i f.eks. 2 måneder.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se afsnit 7.1 om tidsbegrænset handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>En ansøgning herom vil derfor heller ikke blive imødekommet, idet der ikke er tale om en varig lidelse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>En uddannelsessøgende vil ligeledes få afslag på sin ansøgning, hvis den uddannelsessøgende søger på baggrund af en pårørendes eller eget barns sygdom og funktionsnedsættelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark har ikke hjemmel til at tildele handicaptillæg på baggrund af en anden persons funktionsnedsættelse.</Char>
+        </Linea>
+        <Linea>
+          <Char>Handicaptillæg tilknytter sig således alene til den uddannelsessøgendes egne forhold.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende har mulighed for at søge på ny, og i den nye ansøgning vedlægge dokumentation, som opfylder minimumskravene til dokumentationen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende søger på ny, og vurderes at være berettiget til handicaptillæg, vil handicaptillægget blive udbetalt på det nye ansøgningstidspunkt, jf. afsnit 7.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">7.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Udbetaling af handicaptillæg</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark udbetaler handicaptillægget sammen med den uddannelsessøgendes SU og eventuelle SU-lån (eller sammen med slutlån).</Char>
+        </Linea>
+        <Linea>
+          <Char>Det gælder også, hvis den uddannelsessøgende får udbetalt ekstra klip i forbindelse med fødsel eller adoption eller i forbindelse med, at den uddannelsessøgende er forsinket.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er, som nævnt i afsnit 3.2.1, en betingelse, at den uddannelsessøgende har modtaget SU i den periode, hvor Udbetaling Danmark skal udbetale handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Når en ansøgning om handicaptillæg er færdigbehandlet, udbetales tillægget med virkning fra den måned, der er søgt tillæg i, men dog tidligst fra den måned, ansøgningen er modtaget i Udbetaling Danmark via minSU.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at Udbetaling Danmark som udgangspunkt udbetaler handicaptillæg med virkning fra ansøgningstidspunktet.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">7.1 Tidsbegrænset handicaptillæg</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Et tidsbegrænset handicaptillæg betyder, at det på afgørelsestidspunktet er sandsynliggjort, at arten og graden af den uddannelsessøgendes funktionsnedsættelse er varig, men at dette ikke er endeligt fastslået.</Char>
+        </Linea>
+        <Linea>
+          <Char>Handicaptillægget vil således blive tildelt fra ansøgningstidspunktet til en given dato i fremtiden.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende har fået tildelt tidsbegrænset handicaptillæg, vil den periode, den uddannelsessøgende er tildelt handicaptillæg, fremgå af det brev, som den uddannelsessøgende modtager med selve afgørelsen.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Uddannelsessøgende, der modtager et tidsbegrænset handicaptillæg, har mulighed for at ansøge om forlængelse af handicaptillægget, hvis den uddannelsessøgendes funktionsniveau fortsat er markant nedsat eller blevet forværret.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den uddannelsessøgende kan søge inden handicaptillægget udløber, men kan tidligst søge om forlængelse 3 måneder før udløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er også muligt at søge om handicaptillæg, efter at det tidsbegrænsede tillæg er udløbet.</Char>
+        </Linea>
+        <Linea>
+          <Char>I så fald vil den uddannelsessøgende dog først have ret til handicaptillæg fra den måned, hvor den uddannelsessøgende har søgt på ny.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende skal vedlægge den nyeste aktuelle lægefaglig dokumentation for funktionsnedsættelsen i sin ansøgning.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er vigtigt, at dokumentationen er nyere end den, som Udbetaling Danmark allerede har modtaget eller indhentet i forbindelse med behandling af ansøgningen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan for eksempel være de nyeste journaler fra den uddannelsessøgendes behandlingsforløb eller en epikrise fra et afsluttet behandlingsforløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Se i øvrigt afsnit 4 om dokumentation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende kan i sin personlige redegørelse beskrive dennes forløb siden sidste ansøgning.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">8.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Nedsat fribeløb</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende modtager handicaptillæg, har denne et nedsat fribeløb, da handicaptillægget kompenserer for den manglende mulighed for at supplere SU’en med lønindkomst.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det nedsatte fribeløb er primært tiltænkt eventuelle indkomster i form af renteindtægter, børnepension og lignende, samt i særlige tilfælde en meget beskeden lønindkomst, der gør det muligt at afprøve den uddannelsessøgendes erhvervsevne.</Char>
+        </Linea>
+        <Linea>
+          <Char>Udbetaling Danmark vurderer, at en beskeden indkomst og afprøvning af erhvervsevne som udgangspunkt er en indkomst under det nedsatte fribeløb.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende skal være opmærksom på, at hvis det viser sig, at den uddannelsessøgende kan arbejde i et nævneværdigt omfang, kan Udbetaling Danmark genoptage den uddannelsessøgendes sag og stoppe udbetalingen af handicaptillæg, herunder i særlige tilfælde rejse krav om tilbagebetaling af handicaptillægget, jf. afsnit 8.1 herom.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende modtager skattepligtige udbetalinger efter lov om arbejdsskadeforsikring eller lov om erstatningsansvar, påvirker dette den uddannelsessøgendes fribeløb.</Char>
+        </Linea>
+        <Linea>
+          <Char>Den uddannelsessøgende har ikke ret til forhøjelse af fribeløbet i den situation.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Den uddannelsessøgende har desuden pligt til at oplyse Udbetaling Danmark om ændringer i sin tilstand, hvis det påvirker grundlaget for berettigelsen til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan for eksempel være, hvis den uddannelsessøgende får det bedre.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer2" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">8.1 Kontrol af indkomst</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Hvert år kontrollerer Udbetaling Danmark ved hjælp af oplysninger fra Skattestyrelsen, hvad de uddannelsessøgende har tjent ved siden af deres SU.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Hvis den uddannelsessøgende arbejder i et omfang, der viser, at den uddannelsessøgende ikke længere har en meget begrænset erhvervsevne, kan Udbetaling Danmark genoptage sagen til fornyet vurdering.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Når Udbetaling Danmark genoptager en sag til fornyet vurdering på grund af oplysninger om indkomst, ser Udbetaling Danmark på, om den uddannelsessøgende har tjent mere end det nedsatte fribeløb i et år.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det gælder også, selv om den uddannelsessøgende har fravalgt handicaptillæg i nogle måneder og dermed har et højere fribeløb – ligesom det gælder, hvis den uddannelsessøgende har et højere fribeløb, fordi denne er forsøger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Udbetaling Danmark vil i en genoptagelsessag bede den uddannelsessøgende om at redegøre for sin indkomst, inden Udbetaling Danmark måtte træffe afgørelse om at stoppe udbetalingen af handicaptillægget.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Som udgangspunkt stopper Udbetaling Danmark udbetaling af handicaptillægget fremadrettet, hvis Udbetaling Danmark vurderer, at betingelserne ikke længere er opfyldt.</Char>
+        </Linea>
+        <Linea>
+          <Char>Der kan dog i særlige tilfælde blive rejst krav om, at den uddannelsessøgende skal betale sit handicaptillæg tilbage, hvis der er tale om at den uddannelsessøgende ikke har haft meget betydelige begrænsninger i sin erhvervsevne i perioden med tildelt handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus formaForma="Overskriftsnummer1" formaEx="Left">
+        <Linea>
+          <Char formaChar="Bold">9.</Char>
+        </Linea>
+        <Linea>
+          <Char formaChar="Bold">Klage til Ankenævnet for Statens Uddannelsesstøtteordninger</Char>
+        </Linea>
+      </Exitus>
+      <Exitus>
+        <Linea>
+          <Char>Afgørelser om afslag på handicaptillæg, tildeling af et tidsbegrænset handicaptillæg og afvisning af en ansøgning vedrørende handicaptillæg kan den uddannelsessøgende inden for en frist på 4 uger indbringe for Ankenævnet for Statens Uddannelsesstøtteordninger.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Det er den uddannelsessøgendes eget ansvar, at klagen kommer rettidigt frem.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ankenævnet for Statens Uddannelsesstøtteordninger kan afvise at behandle en klage, der er modtaget for sent.</Char>
+        </Linea>
+        <Linea>
+          <Char>Ankenævnet for Statens Uddannelsesstøtteordninger kan i visse tilfælde se bort fra overskridelse af klagefristen.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det kan ske op til seks måneder efter, den uddannelsessøgende har modtaget afgørelsen, og hvis overskridelse af fristen af særlige grunde er undskyldelig.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det er Ankenævnet for Statens Uddannelsesstøtteordninger, der vurderer, om der foreligger undskyldelige forhold.</Char>
+        </Linea>
+        <Linea>
+          <Char>Derfor kan Udbetaling Danmark ikke tage stilling til dette.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Ankenævnet for Statens Uddannelsesstøtteordninger er uafhængigt, og deres afgørelser er endelige inden for det administrative system.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder, at Ankenævnet for Statens Uddannelsesstøtteordningers afgørelser er bindende for styrelsen, og at den uddannelsessøgende ikke kan klage over disse.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>Klager den uddannelsessøgende over en afvisning af sin ansøgning om handicaptillæg, vil klagen alene omhandle spørgsmålet, om Udbetaling Danmark var berettiget til at afvise ansøgningen, og ikke om den uddannelsessøgende er eller var berettiget til handicaptillæg.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det betyder også, at hvis der indsendes ny lægefaglig dokumentation med klagen, vil der ikke blive taget stilling hertil.</Char>
+        </Linea>
+        <Linea>
+          <Char>Det vil kræve, at den uddannelsessøgende søger på ny.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+      <Exitus>
+        <Linea>
+          <Char>På www.su.dk fremgår nærmere vejledning om, hvordan Udbetaling Danmark behandler klager over afgørelser om handicaptillæg.</Char>
+        </Linea>
+      </Exitus>
+      <Exitus />
+    </TekstGruppe>
+  </DokumentIndhold>
+  <UnderskriftGruppe id="idccbac601-c3b6-4b28-a91e-3daf97e8a304">
+    <UnderskriftStedDato />
+    <Underskriver />
+  </UnderskriftGruppe>
+</Dokument>
