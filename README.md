@@ -144,6 +144,7 @@ The most important files
 | `Evaluation/benchmark/gold_determinations_su_v1.jsonl` | The 34 XHAILe determinations |
 | `Evaluation/benchmark/legal_authorities_su_v1.json` | The current legal sources given to the judge |
 | `Evaluation/benchmark/sources/raw/` | Frozen copies of the official guidance and law from Retsinformation |
+| `Evaluation/docs/GUIDANCE_VERSION_CHECK_2026-11-16.md` | Word comparison of the guidance used in the evaluation (VEJ nr. 10157) with the version that replaced it (VEJ nr. 10278), with both texts in `Evaluation/benchmark/sources/version_check/` |
 | `Evaluation/prompts/plain_question_v1.txt` | Answer prompt without source and for my own RAG system |
 | `Evaluation/prompts/plain_source_question_v1.txt` | Answer prompt with the correct source |
 | `Evaluation/prompts/llm_judge_prompt_v3_c04_reviewer_wording.txt` | The LLM judge prompt |
@@ -250,6 +251,11 @@ This repository is private and must not be shared further.
 
 The official guidance and law in `Evaluation/benchmark/sources/raw/` are
 public copies from Retsinformation.
+
+The evaluation of 5 November 2026 used VEJ nr. 10157 af 05/10/2026, which was
+in force on that day. It has since been replaced by VEJ nr. 10278 of the same
+date. `Evaluation/docs/GUIDANCE_VERSION_CHECK_2026-11-16.md` lists the 12
+differences, which are editorial.
 
 Please use the material only to assess the thesis, and do not upload it to
 other services.
