@@ -77,3 +77,9 @@ def write_subset_csv(path):
 
 if len(sys.argv) > 2 and sys.argv[2] == '--csv':
     write_subset_csv(sys.argv[3])
+
+# Added 16 November 2026: the main result under each assessor (Section 6.7, robustness to the reviewer).
+print('== correct and complete (C01 and C02 Met): legal reviewer | LLM judge run 1 | both | judge in all three runs')
+def cc(r): return r['c01_overall_legal_correctness_label']=='met' and r['c02_required_elements_complete_label']=='met'
+for name,keys in (('without source',cb),('with correct source',gc),('own RAG system',own)):
+    print(f"{name:20s} n={len(keys)}  reviewer {sum(cc(H[k]) for k in keys)}  judge {sum(cc(J[k]) for k in keys)}  both {sum(cc(H[k]) and cc(J[k]) for k in keys)}  judge x3 {sum(all(cc(R[i][k]) for i in (1,2,3)) for k in keys)}")
