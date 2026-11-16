@@ -47,6 +47,12 @@ and the two assessments are then compared.
   complete** when C01 and C02 are both Met.
 - **Legal reviewer.** Patrick Michel assessed all 70 answers himself in five
   rounds of 14. That is 700 decisions, and they form the human reference.
+  He has no ties to XHAILe, but he sits on the board of APIZ.dk ApS, the
+  company behind my own RAG system, and the thesis treats this as a threat to
+  validity (Section 6.7). The field `reviewer_independence_confirmed_yes_no =
+  yes` in the rubric files was entered on 1 November 2026 and does not reflect
+  this tie. The files are left unchanged, because their SHA-256 fingerprints
+  are stored in the test cases and with the runs.
 - **LLM judge.** Claude Sonnet 5.5 (`claude-sonnet-5-5`) assessed the same 70
   answers on the same criteria without seeing the legal reviewer's labels. It
   ran three times, so its stability can be measured. That is 2,100 decisions.
